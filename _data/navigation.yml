@@ -1,0 +1,37 @@
+# main links
+# in masthead.html
+# To avoid the font become grey, url string should contain the title
+main:
+
+  - title: "Keynotes"
+    url: /coming_soon
+  
+  - title: "Programme"
+    url: /coming_soon
+  
+  - title: "Papers"
+    url: /coming_soon
+  
+  - title: "Venue"
+    url: /coming_soon
+
+  - title: "Registration"
+    url: /coming_soon
+  
+  - title: "Sponsors"
+    url: /coming_soon
+    
+  - title: "Shared Task"
+    url: /coming_soon
+
+  - title: "Committees"
+    url: /coming_soon
+  
+  - title: "Mentoring"
+    url: /coming_soon
+
+  - title: "Calls"
+    url: /coming_soon
+
+  - title: "Contact"
+    url: /coming_soon
