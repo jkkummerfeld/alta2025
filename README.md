@@ -9,11 +9,12 @@ The following steps are tested on Ubuntu 22.04.
 
 First, set up ruby
 ```bash
-$ sudo apt-get install ruby-rubygems ruby-dev g++
+$ sudo apt-get install ruby-rubygems ruby-dev g++ make
 $ echo "export GEM_HOME=$HOME/.local/share/gem/ruby/3.0.0" >> ~/.bashrc
 $ echo "export PATH=$GEM_HOME/bin:$PATH" >> ~/.bashrc
 $ source ~/.bashrc
 $ gem install --user-install bundler
+$ bundle config set path $GEM_HOME
 ```
 Now clone the repository
 ```
