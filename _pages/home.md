@@ -18,6 +18,7 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| 2024-05-20 | The [Call for Problems for the ALTA 2024 Shared Task](/calls) is now open until June 7th 2024.|
 | 2024-04-10 | The official ALTA 2024 website is launched.
 {: .news-table}
 
@@ -26,9 +27,9 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 
 <style>
 .dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 50%; }
-.dates-table tr td:nth-child(2) { width: 10%; }
+.dates-table tr td:nth-child(1) { width: 25em; font-weight: bold; }
+.dates-table tr td:nth-child(2) { width: 55em; font-weight: bold; }
 .dates-table del { color: #888; }
 </style>
-Coming soon ...
+| 2024-06-07 | [Call for Problems for the ALTA 2024 Shared Task](/calls) closes.
 {: .dates-table}
