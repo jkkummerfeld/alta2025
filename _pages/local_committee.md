@@ -49,7 +49,7 @@ permalink: /local_committee
   name="Shunichi Ishihara"
   picture="/assets/images/committee/Shunichi_Ishihara.jpg"
   site="https://people.anu.edu.au/sishihara/"
-  institution="Associate Professor, Co-Director of Speech and Language Laboratory<br>School of Culture, History and Language<br>Australian National University"
+  institution="Associate Professor<br>Co-Director of Speech and Language Laboratory<br>School of Culture, History and Language<br>Australian National University"
 %}
 
 <h2>Sponsorship Chair</h2>
