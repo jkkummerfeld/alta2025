@@ -25,7 +25,7 @@ main:
     url: /shared-task
 
   - title: "Committee"
-    url: /committee_local
+    url: /local_committee
   
   - title: "Mentoring"
     url: /coming_soon
