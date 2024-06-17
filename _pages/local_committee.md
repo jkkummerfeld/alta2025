@@ -28,6 +28,14 @@ permalink: /local_committee
   institution="Research Fellow<br>Centre for Big Data Research for Health<br>University of New South Wales"
 %}
 
+<h2>Program Co-Chair</h2>
+{% include committee-member.html
+  name="Tim Baldwin"
+  picture="/assets/images/committee/Tim_Baldwin.jpg"
+  site="https://eltimster.github.io/www/"
+  institution="Provost & Professor<br>Mohamed bin Zayed University of Artificial Intelligence<br>Melbourne Laureate Professor<br>University of Melbourne"
+%}
+
 <h2>Publication Chair</h2>
 {% include committee-member.html
   name="Anton Malko"
