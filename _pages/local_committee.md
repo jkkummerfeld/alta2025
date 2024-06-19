@@ -15,6 +15,13 @@ permalink: /local_committee
 
 <h2>Program Chairs</h2>
 {% include committee-member.html
+  name="Tim Baldwin"
+  picture="/assets/images/committee/Tim_Baldwin.jpg"
+  site="https://eltimster.github.io/www/"
+  institution="Provost & Professor<br>Mohamed bin Zayed University of Artificial Intelligence<br>Melbourne Laureate Professor<br>University of Melbourne"
+%}
+
+{% include committee-member.html
   name="Sergio José Rodríguez Méndez"
   picture="/assets/images/committee/Sergio_Rodriguez.png"
   site="https://comp.anu.edu.au/people/sergio-rodriguez-mendez/"
