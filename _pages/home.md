@@ -9,7 +9,7 @@ excerpt: "Canberra<br>December 2 - 4, 2024"
 ---
 ## Welcome!
 
-The 22nd Annual Workshop of the Australasian Language Technology Association (ALTA 2024) will take place in **Canberra, Australia** from **2nd to 4th December 2 - 4, 2024**. ALTA 2024 will largely operate as an offline conference this year, with limited online/hybrid capability.
+The 22nd Annual Workshop of the Australasian Language Technology Association (ALTA 2024) will take place in the **[Australian National University](https://www.anu.edu.au/) (ANU), Canberra, Australia** from **2nd to 4th December 2 - 4, 2024**. ALTA 2024 will largely operate as an offline conference this year, with limited online/hybrid capability.
 
 ## News
 
