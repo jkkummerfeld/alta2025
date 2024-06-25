@@ -10,7 +10,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 
 
 silver:
-  - url: https://ardc.edu.edu
+  - url: https://ardc.edu.au
     image_path: /assets/images/sponsors/ardc.png
     alt: ARDC - Australian Research Data Commons
     title: ARDC - Australian Research Data Commons
