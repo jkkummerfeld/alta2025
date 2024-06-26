@@ -8,10 +8,10 @@ main:
   
   - title: "Programme"
     url: /coming_soon
-  
-  - title: "Papers"
-    url: /coming_soon
-  
+ 
+  - title: "Calls"
+    url: /calls/papers
+
   - title: "Venue"
     url: /venue
 
@@ -20,6 +20,9 @@ main:
   
   - title: "Sponsors"
     url: /sponsors
+ 
+  - title: "Papers"
+    url: /coming_soon
     
   - title: "Shared Task"
     url: /shared-task
@@ -30,8 +33,14 @@ main:
   - title: "Mentoring"
     url: /coming_soon
 
-  - title: "Calls"
-    url: /calls
-
   - title: "Contact"
     url: /contact
+
+calls:
+  - title: "calls for"
+    children:
+      - title: "ALTA 2024 Papers"
+        url: /calls/papers
+      - title: "ALTA 2024 Shared Task"
+        url: /calls/shared_task
+ 
