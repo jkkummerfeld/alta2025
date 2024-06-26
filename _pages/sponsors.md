@@ -8,12 +8,26 @@ toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 
-
+gold:
+  - url: https://www.dst.defence.gov.au/
+    image_path: /assets/images/sponsors/dstg.png
+    alt: Defence Science and Technology Group
+    title: Department of Defence - Defence Science and Technology Group
 silver:
   - url: https://ardc.edu.au
     image_path: /assets/images/sponsors/ardc.png
     alt: ARDC - Australian Research Data Commons
     title: ARDC - Australian Research Data Commons
+bronze:
+  - url: https://www.commbank.com.au/
+    image_path: /assets/images/sponsors/commonwealth-bank.png
+    alt: Commonwealth Bank
+    title: Commonwealth Bank
+  - url: https://cis.unimelb.edu.au/
+    image_path: /assets/images/sponsors/university-of-melbourne.svg
+    alt: University of Melbourne School of Computing and Information Systems
+    title: University of Melbourne School of Computing and Information Systems
+    
 ---
 
 <style>
@@ -54,17 +68,17 @@ ALTA 2024 is extremely grateful to all sponsors. We simply couldn’t run the co
 
 {% include sponsors-list.html id="platinum" layout="big"%} -->
 
-<!-- ## Gold
+## Gold Premium Sponsor
 
-{% include sponsors-list.html id="gold" layout="third" %}  -->
+{% include sponsors-list.html id="gold" layout="third" %}
 
 ## Silver
 
 {% include sponsors-list.html id="silver" layout="third" %}
 
-<!-- ## Bronze
+## Bronze
 
-{% include sponsors-list.html id="bronze" layout="third" %}  -->
+{% include sponsors-list.html id="bronze" layout="third" %}
 
 <!-- ## Event Sponsors
 
