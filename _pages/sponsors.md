@@ -27,7 +27,7 @@ bronze:
     image_path: /assets/images/sponsors/university-of-melbourne.svg
     alt: University of Melbourne School of Computing and Information Systems
     title: University of Melbourne School of Computing and Information Systems
-    
+
 ---
 
 <style>
@@ -46,7 +46,7 @@ bronze:
 }
 .sponsors-list.html a { text-decoration: none; }
 .sponsors-list.html > a > .dummy-padding { margin-top: 100%; }
-.sponsors-list.html > a > img { margin: 0; }
+.sponsors-list > a > img { margin: 0; max-height: 5rem;}
 .sponsors-list.html > a:hover { box-shadow: 0 0 10px #00000044; }
 .sponsors-list.html > a:hover > img { box-shadow: none !important; }
 </style>
