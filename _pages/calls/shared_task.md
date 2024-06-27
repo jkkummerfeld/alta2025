@@ -1,12 +1,13 @@
 ---
-title: Calls
+title: Call for Problems for ALTA 2024 Shared Task
 layout: single
 excerpt: "ALTA 2024 Calls"
-permalink: /calls
+permalink: /calls/shared_task
+sidebar:
+    nav: calls
 ---
 
-## Call for Problems for ALTA 2024 Shared Task
-
+<br>
 ALTA is seeking problems to use for the thirteenth ALTA Shared Task. The ALTA shared tasks are targeted at university students with programming experience.
 
 The problems that we are seeking should have the following features:
