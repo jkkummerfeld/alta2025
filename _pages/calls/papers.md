@@ -87,8 +87,7 @@ Original research papers under review for other publication venues or that you i
 ## Instructions for Authors
 
 ### Paper Submission
-Authors should submit their papers via OpenReview using the ''ALTA 2024 Workshop Submission'' button.
-<!--(https://openreview.net/group?id=ALTA.asn.au/2024/Workshop)--> 
+Authors should [submit their papers via OpenReview](https://openreview.net/group?id=ALTA.asn.au/2024/Workshop) using the ''ALTA 2024 Workshop Submission'' button.
 
 ### Formatting Guidelines
 Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or the Microsoft Word template from <https://github.com/acl-org/acl-style-files>.
