@@ -1,6 +1,6 @@
 # ALTA 2024 Official Website
 
-This is the code for the official website for the 2024 Annual Workshop of the Australasian Language Technology Association (ALTA 2024), based on the code for [ALTA 2023](https://alta2023.alta.asn.au/) and [EMNLP 2022](https://github.com/yxni98/EMNLP_2022). It's currently using the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
+This is the code for the official website for the 2024 Annual Workshop of the Australasian Language Technology Association ([ALTA 2024](https://alta2024.alta.asn.au/)), based on the code for [ALTA 2023](https://alta2023.alta.asn.au/) and [EMNLP 2022](https://github.com/yxni98/EMNLP_2022). It's currently using the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
 
 
 ## Building the website locally
