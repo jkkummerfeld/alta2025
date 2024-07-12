@@ -89,6 +89,15 @@ Original research papers under review for other publication venues or that you i
 ### Paper Submission
 Authors should [submit their papers via OpenReview](https://openreview.net/group?id=ALTA.asn.au/2024/Workshop) using the ''ALTA 2024 Workshop Submission'' button.
 
+#### Important Notice Regarding OpenReview Profile Creation
+We would like to notify authors about OpenReview's profile creation policy:
+- Profiles created without an institutional email (e.g., using Gmail, Yahoo, etc.) will undergo a moderation process that may take up to two weeks for approval.
+- Profiles created with an institutional email will be activated automatically without any delay.
+
+To avoid any delays, **we strongly recommend using an institutional email when creating your OpenReview profile**. Otherwise, please be aware of the potential two-week moderation period and plan accordingly towards the paper submission deadline.
+
+Thank you for your understanding.
+
 ### Formatting Guidelines
 Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or the Microsoft Word template from <https://github.com/acl-org/acl-style-files>.
 
