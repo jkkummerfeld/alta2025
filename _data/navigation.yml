@@ -25,7 +25,7 @@ main:
     url: /coming_soon
     
   - title: "Shared Task"
-    url: /shared-task
+    url: https://www.alta.asn.au/events/sharedtask2024/
 
   - title: "Committee"
     url: /local_committee
