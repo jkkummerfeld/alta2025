@@ -18,6 +18,7 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| 2024-08-13 | The ALTA 2024 [shared task competition](https://www.alta.asn.au/events/sharedtask2024/) is out. |
 | 2024-06-26 | The [Call for Papers](/calls/papers) is out. |
 | 2024-05-20 | The [Call for Problems for the ALTA 2024 Shared Task](/calls/shared_task) is now open until June 7th 2024.|
 | 2024-04-10 | The official ALTA 2024 website is launched.
