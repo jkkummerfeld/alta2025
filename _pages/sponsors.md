@@ -8,7 +8,7 @@ toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 
-gold:
+platinum:
   - url: https://www.dst.defence.gov.au/
     image_path: /assets/images/sponsors/dstg.png
     alt: Defence Science and Technology Group
@@ -68,15 +68,15 @@ ALTA 2024 is extremely grateful to all sponsors. We simply couldn’t run the co
 
 {% include sponsors-list.html id="platinum" layout="big"%} -->
 
-## Gold Premium Sponsor
+## Platinum Sponsor
 
-{% include sponsors-list.html id="gold" layout="third" %}
+{% include sponsors-list.html id="platinum" layout="third" %}
 
-## Silver
+## Silver Sponsor
 
 {% include sponsors-list.html id="silver" layout="third" %}
 
-## Bronze
+## Bronze Sponsor
 
 {% include sponsors-list.html id="bronze" layout="third" %}
 
