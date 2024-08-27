@@ -68,15 +68,15 @@ ALTA 2024 is extremely grateful to all sponsors. We simply couldn’t run the co
 
 {% include sponsors-list.html id="platinum" layout="big"%} -->
 
-## Platinum Premium Sponsor
+## Platinum Sponsor
 
 {% include sponsors-list.html id="platinum" layout="third" %}
 
-## Silver
+## Silver Sponsor
 
 {% include sponsors-list.html id="silver" layout="third" %}
 
-## Bronze
+## Bronze Sponsor
 
 {% include sponsors-list.html id="bronze" layout="third" %}
 
