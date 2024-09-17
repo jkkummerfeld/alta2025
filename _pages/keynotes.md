@@ -1,8 +1,8 @@
 ---
-title: Keynote 
+title: Keynotes
 layout: single
 excerpt: "ALTA 2024 Keynote Speakers"
-permalink: /keynote/
+permalink: /keynotes/
 sidebar: false
 toc: false
 toc_sticky: true
@@ -22,9 +22,11 @@ toc_label: "&nbsp;Keynote"
 The following speakers have graciously agreed to give keynotes at ALTA 2024.
 
 ## Public Lecture
-Eduard Hovy - University of Melbourne
+#### Eduard Hovy - University of Melbourne
 
 ## Keynotes
-Jing Jiang - Australian National University
-Steven Bird - Charles Darwin University
-Trevor Cohen - Google Research Australia
+#### Jing Jiang - Australian National University
+
+#### Steven Bird - Charles Darwin University
+
+#### Trevor Cohen - Google Research Australia
