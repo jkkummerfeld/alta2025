@@ -24,7 +24,7 @@ sidebar:
 - Kathy Reid (Australian National University)
 - Kemal Kurniawan (University of Melbourne)
 - Lizhen Qu (Monash University)
-- Mac Kim
+- Mac Kim (CUBE Global)
 - Mark Dras (Macquarie University)
 - Massimo Piccardi (University of Technology Sydney)
 - Mike Conway (The University of Melbourne)
