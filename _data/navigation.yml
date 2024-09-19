@@ -43,4 +43,11 @@ calls:
         url: /calls/papers
       - title: "ALTA 2024 Shared Task"
         url: /calls/shared_task
- 
+
+committees:
+  - title: "committees"
+    children:
+      - title: "Local Committee"
+        url: /local_committee
+      - title: "Program Committee"
+        url: /reviewers
