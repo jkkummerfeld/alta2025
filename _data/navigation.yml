@@ -18,7 +18,7 @@ main:
   - title: "Shared Task"
     url: https://www.alta.asn.au/events/sharedtask2024/
 
-  - title: "Committee"
+  - title: "Committees"
     url: /committees/local
  
   - title: "Programme"
@@ -48,6 +48,6 @@ committees:
   - title: "committees"
     children:
       - title: "Local Committee"
-        url: /local_committee
+        url: /committees/local
       - title: "Program Committee"
-        url: /reviewers
+        url: /committees/reviewers
