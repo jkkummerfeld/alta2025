@@ -6,29 +6,29 @@ main:
   - title: "Keynotes"
     url: /keynotes
   
-  - title: "Programme"
-    url: /coming_soon
- 
   - title: "Calls"
     url: /calls/papers
 
   - title: "Venue"
     url: /venue
 
-  - title: "Registration"
-    url: /coming_soon
-  
   - title: "Sponsors"
     url: /sponsors
- 
-  - title: "Papers"
-    url: /coming_soon
-    
+   
   - title: "Shared Task"
     url: https://www.alta.asn.au/events/sharedtask2024/
 
-  - title: "Committee"
-    url: /local_committee
+  - title: "Committees"
+    url: /committees/local
+ 
+  - title: "Programme"
+    url: /coming_soon
+
+  - title: "Registration"
+    url: /coming_soon
+  
+  - title: "Papers"
+    url: /coming_soon
   
   - title: "Mentoring"
     url: /coming_soon
@@ -43,4 +43,11 @@ calls:
         url: /calls/papers
       - title: "ALTA 2024 Shared Task"
         url: /calls/shared_task
- 
+
+committees:
+  - title: "committees"
+    children:
+      - title: "Local Committee"
+        url: /committees/local
+      - title: "Program Committee"
+        url: /committees/reviewers

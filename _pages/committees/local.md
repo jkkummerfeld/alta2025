@@ -2,7 +2,9 @@
 title: Local Committee
 layout: single
 excerpt: "ALTA 2024 Local Committee"
-permalink: /local_committee
+permalink: /committees/local
+sidebar:
+    nav: "committees"
 ---
 
 <h2>General Chair</h2>
