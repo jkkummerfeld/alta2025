@@ -2,7 +2,7 @@
 title: Program Committee
 layout: single
 excerpt: "ALTA 2024 program committee"
-permalink: /committees/reviewers/
+permalink: /committees/reviewers
 sidebar:
     nav: "committees"
 ---
