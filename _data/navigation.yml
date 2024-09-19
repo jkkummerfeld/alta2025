@@ -20,15 +20,15 @@ main:
   
   - title: "Sponsors"
     url: /sponsors
- 
-  - title: "Papers"
-    url: /coming_soon
-    
+   
   - title: "Shared Task"
     url: https://www.alta.asn.au/events/sharedtask2024/
 
   - title: "Committee"
-    url: /local_committee
+    url: /committees/local
+ 
+  - title: "Papers"
+    url: /coming_soon
   
   - title: "Mentoring"
     url: /coming_soon
