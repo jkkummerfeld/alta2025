@@ -12,6 +12,7 @@ sidebar:
 - Dawei Chen (Australian National University)
 - Diego Molla (Macquarie University)
 - Eduard Hovy (University of Melbourne)
+- Ekaterina Vylomova (The University of Melbourne)
 - Fajri Koto (Mohamed bin Zayed University of Artificial Intelligence)
 - Gabriela Ferraro (Australian National University)
 - Hamed Hassanzadeh (CSIRO)
@@ -26,8 +27,9 @@ sidebar:
 - Mac Kim
 - Mark Dras (Macquarie University)
 - Massimo Piccardi (University of Technology Sydney)
-- Mike Conway
+- Mike Conway (The University of Melbourne)
 - Nicholas I-Hsien Kuo (University of New South Wales)
+- Parma Nand (Auckland University of Technology)
 - Sarvnaz Karimi (CSIRO)
 - Sergio José Rodríguez Méndez (Australian National University)
 - Shervin Malmasi (Amazon)
