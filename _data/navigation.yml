@@ -6,18 +6,12 @@ main:
   - title: "Keynotes"
     url: /keynotes
   
-  - title: "Programme"
-    url: /coming_soon
- 
   - title: "Calls"
     url: /calls/papers
 
   - title: "Venue"
     url: /venue
 
-  - title: "Registration"
-    url: /coming_soon
-  
   - title: "Sponsors"
     url: /sponsors
    
@@ -27,6 +21,12 @@ main:
   - title: "Committee"
     url: /committees/local
  
+  - title: "Programme"
+    url: /coming_soon
+
+  - title: "Registration"
+    url: /coming_soon
+  
   - title: "Papers"
     url: /coming_soon
   
