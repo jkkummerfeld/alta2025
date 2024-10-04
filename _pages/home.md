@@ -37,9 +37,9 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 </style>
 | [Call for Problems for the ALTA 2024 Shared Task](/calls) closes | Friday | 7 June 2024
 | Paper submission deadline (long/short papers, presentation abstracts, industry demonstrations) | Friday | <del>20 September 2024</del> <br> **27 September 2024 (23:59 Anywhere On Earth UTC-12)**
-| Paper review period (reviewing) | | 28 September -- 18 October 2024
-| Paper review period (consolidate by co-chairs) | | 19 -- 26 October 2024
-| Author notification | Tuesday | 29 October 2024
+| Paper review period (reviewing) | | 28 September -- <del>18</del> **25** October 2024
+| Paper review period (consolidate by co-chairs) | | <del>19 -- 26</del> **26 -- 30** October 2024
+| Author notification | Tuesday | <del>29</del> **31** October 2024
 | Camera-ready deadline | Tuesday | 12 November 2024 (**23:59 Anywhere On Earth UTC-12**)
 | Proceedings ready | Saturday | 30 November 2024
 | Conference (Tutorial) | Monday | 2 December 2024
