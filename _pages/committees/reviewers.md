@@ -7,6 +7,11 @@ sidebar:
     nav: "committees"
 ---
 
+## Area chairs
+- Karin Verspoor (Royal Melbourne Institute of Technology)
+- Mark Dras (Macquarie University)
+- Sarvnaz Karimi (CSIRO)
+
 ## Reviewers
 - Daniel Beck (Royal Melbourne Institute of Technology)
 - Dawei Chen (Australian National University)
