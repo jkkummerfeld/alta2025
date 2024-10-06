@@ -51,3 +51,5 @@ committees:
         url: /committees/local
       - title: "Program Committee"
         url: /committees/reviewers
+      - title: "ALTA Executive Committee"
+        url: /committees/executive
