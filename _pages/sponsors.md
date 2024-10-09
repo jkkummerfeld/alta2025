@@ -13,6 +13,11 @@ platinum:
     image_path: /assets/images/sponsors/dstg.png
     alt: Defence Science and Technology Group
     title: Department of Defence - Defence Science and Technology Group
+gold:
+  - url: https://www.google.com/
+    image_path: /assets/images/sponsors/google.svg
+    alt: Google
+    title: Google
 silver:
   - url: https://ardc.edu.au
     image_path: /assets/images/sponsors/ardc.png
@@ -71,6 +76,10 @@ ALTA 2024 is extremely grateful to all sponsors. We simply couldn’t run the co
 ## Platinum Sponsor
 
 {% include sponsors-list.html id="platinum" layout="third" %}
+
+## Gold Sponsor
+
+{% include sponsors-list.html id="gold" layout="third" %}
 
 ## Silver Sponsor
 
