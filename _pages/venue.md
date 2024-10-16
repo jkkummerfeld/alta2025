@@ -54,29 +54,23 @@ Email reservations.uas@anu.edu.au
 
 #### [A by Adina Canberra](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=31228&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ABASBE&themecode=ABASBE)
 1 Constitution Ave, Canberra ACT 2601
-
 Booking: via [this link](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=31228&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ABASBE&themecode=ABASBE).
 
 #### [Adina James Court](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=58450&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ADISBE&themecode=ADISBE)
 74 Northbourne Ave, Braddon ACT 2601
-
 Booking: via [this link](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=58450&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ADISBE&themecode=ADISBE).
 
 #### Ovolo Nishi and Nishi Apartments
 NewActon Precinct, 25 Edinburgh Ave, Canberra ACT 2601
-
-Rooms range from $229 - $269.
-
+Rooms range from $229 - $269
 Booking: please email events.nishi@ovolohotels.com with booking code “ALTA ANU 2024” or “744067”.
 
 #### [Midnight Hotel](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/)
 1 Elouera St, Braddon ACT 2612
-
 Booking: via [this link](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/), please enter "BC6” in the Corp/Promo Code area under Special Rates.
 
 #### [Crown Plaza Canberra](https://canberra.crowneplaza.com/)
 1 Binara St, Canberra ACT 2601
-
 Booking: TBC
 
 #### Peppers Gallery Hotel
