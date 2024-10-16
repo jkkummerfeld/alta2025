@@ -69,7 +69,7 @@ Rooms range from $229 - $269.
 
 Booking: please email events.nishi@ovolohotels.com with booking code “ALTA ANU 2024” or “744067”.
 
-##### [Midnight Hotel](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/)
+#### [Midnight Hotel](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/)
 1 Elouera St, Braddon ACT 2612
 
 Booking: via [this link](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/), please enter "BC6” in the Corp/Promo Code area under Special Rates.
