@@ -42,7 +42,7 @@ Canberra boasts a wide range of accommodation providers for every budget.
 
 #### Liversidge Court Apartments
 The Australian National University, Brian Lewis Crescent, Acton, Canberra  
-Note: Liversidge Court Apartments are only for ANU staff, Visiting Fellows and HDR students  
+Note: *Liversidge Court Apartments are only for ANU staff, Visiting Fellows and HDR students*  
 Telephone: +61 2 6125 1100  
 Email reservations.uas@anu.edu.au
 
@@ -61,7 +61,7 @@ Booking: via [this link](https://reservations.tfehotels.com/?adult=1&arrive=2024
 #### Ovolo Nishi and Nishi Apartments
 
 NewActon Precinct, 25 Edinburgh Ave, Canberra ACT 2601  
-Rooms range from $229 - $269  
+Rooms range from $229 - $269.  
 Booking: please email events.nishi@ovolohotels.com with booking code “ALTA ANU 2024” or “744067”.
 
 #### Midnight Hotel
