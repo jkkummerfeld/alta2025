@@ -40,24 +40,20 @@ Canberra boasts a wide range of accommodation providers for every budget.
 
 ### Accommodation on the ANU Campus
 
-#### University House
-The Australian National University, cnr Balmain Crescent & Liversidge Street, Acton, Canberra  
-Telephone +61 2  6125 5211  
-Email accommodation.unihouse@anu.edu.au
-
 #### Liversidge Court Apartments
 The Australian National University, Brian Lewis Crescent, Acton, Canberra  
+Note: Liversidge Court Apartments are only for ANU staff, Visiting Fellows and HDR students  
 Telephone: +61 2 6125 1100  
 Email reservations.uas@anu.edu.au
 
 ### Accommodation near the ANU Campus
 
-#### [A by Adina Canberra](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=31228&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ABASBE&themecode=ABASBE)
+#### A by Adina Canberra
 
 1 Constitution Ave, Canberra ACT 2601  
 Booking: via [this link](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=31228&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ABASBE&themecode=ABASBE).
 
-#### [Adina James Court](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=58450&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ADISBE&themecode=ADISBE)
+#### Adina James Court
 
 74 Northbourne Ave, Braddon ACT 2601  
 Booking: via [this link](https://reservations.tfehotels.com/?adult=1&arrive=2024-12-02&chain=14687&child=0&config=CORPNP_SBE&configcode=CORPNP_SBE&currency=AUD&depart=2024-12-04&hotel=58450&level=hotel&locale=en-US&productcurrency=AUD&promo=ALTAWORKSHOP1224&rooms=1&theme=ADISBE&themecode=ADISBE).
@@ -68,7 +64,7 @@ NewActon Precinct, 25 Edinburgh Ave, Canberra ACT 2601
 Rooms range from $229 - $269  
 Booking: please email events.nishi@ovolohotels.com with booking code “ALTA ANU 2024” or “744067”.
 
-#### [Midnight Hotel](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/)
+#### Midnight Hotel
 
 1 Elouera St, Braddon ACT 2612  
 Booking: via [this link](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/), please enter "BC6” in the Corp/Promo Code area under Special Rates.
