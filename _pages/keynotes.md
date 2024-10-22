@@ -29,4 +29,4 @@ The following speakers have graciously agreed to give keynotes at ALTA 2024.
 
 #### Steven Bird - Charles Darwin University
 
-#### Trevor Cohen - Google Research Australia
+#### Kyla Quinn - Australian Department of Defence
