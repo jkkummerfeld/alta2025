@@ -69,10 +69,10 @@ Booking: please email events.nishi@ovolohotels.com with booking code “ALTA ANU
 1 Elouera St, Braddon ACT 2612  
 Booking: via [this link](https://www.marriott.com/en-us/hotels/cbrak-midnight-hotel-autograph-collection/overview/), please enter "BC6” in the Corp/Promo Code area under Special Rates.
 
-#### [Crown Plaza Canberra](https://canberra.crowneplaza.com/)
+#### Crown Plaza Canberra
 
 1 Binara St, Canberra ACT 2601  
-Booking: TBC
+Booking: via [this link](https://book.passkey.com/event/50918846/owner/9796011/home) (expires on 6 November)
 
 #### Peppers Gallery Hotel
 
