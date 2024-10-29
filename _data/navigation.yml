@@ -5,30 +5,30 @@ main:
 
   - title: "Keynotes"
     url: /keynotes
-  
-  - title: "Calls"
-    url: /calls/papers
 
+  - title: "Programme"
+    url: /coming_soon
+  
   - title: "Venue"
     url: /venue
+
+  - title: "Registration"
+    url: https://events.humanitix.com/alta-2024?hxchl=hex-qrc&hxref=evt
 
   - title: "Sponsors"
     url: /sponsors
    
   - title: "Shared Task"
     url: https://www.alta.asn.au/events/sharedtask2024/
-
-  - title: "Committees"
-    url: /committees/local
- 
-  - title: "Programme"
-    url: /coming_soon
-
-  - title: "Registration"
-    url: /coming_soon
   
   - title: "Papers"
     url: /coming_soon
+
+  - title: "Committees"
+    url: /committees/local
+
+  - title: "Calls"
+    url: /calls/papers
   
   - title: "Mentoring"
     url: /coming_soon
