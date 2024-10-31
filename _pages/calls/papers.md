@@ -11,7 +11,7 @@ sidebar:
 
 ## Important Dates
 - Submission deadline for short/long papers, presentation abstracts and industry demonstrations: <del>20 September 2024</del> **Extended to 27 September 2024 (23:59 Anywhere On Earth UTC-12)**.
-- Author notification: <del>29 October 2024</del> **31 October 2024**.
+- Author notification: <del>29 October 2024</del> <del>31 October 2024</del> **6 November 2024**.
 - Camera-ready deadline: 12 November 2024 (23:59 Anywhere On Earth UTC-12).
 - Tutorial: 2 December 2024.
 - Main conference: 3 December and 4 December 2024.
