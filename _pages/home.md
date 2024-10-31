@@ -18,10 +18,12 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
-| 2024-09-13 | The submission deadline is [extended to 27 September 2024](/calls/papers). |
-| 2024-08-13 | The ALTA 2024 [shared task competition](https://www.alta.asn.au/events/sharedtask2024/) is out. |
+| 2024-10-31 | Author notification is postponed to 6 November 2024.
+| 2024-10-29 | Registrations are now open.
+| 2024-09-13 | The submission deadline is [extended to 27 September 2024](/calls/papers).
+| 2024-08-13 | The ALTA 2024 [shared task competition](https://www.alta.asn.au/events/sharedtask2024/) is out.
 | 2024-06-26 | The [Call for Papers](/calls/papers) is out. |
-| 2024-05-20 | The [Call for Problems for the ALTA 2024 Shared Task](/calls/shared_task) is now open until June 7th 2024.|
+| 2024-05-20 | The [Call for Problems for the ALTA 2024 Shared Task](/calls/shared_task) is now open until June 7th 2024.
 | 2024-04-10 | The official ALTA 2024 website is launched.
 {: .news-table}
 
@@ -39,7 +41,7 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 | Paper submission deadline (long/short papers, presentation abstracts, industry demonstrations) | Friday | <del>20 September 2024</del> <br> **27 September 2024 (23:59 Anywhere On Earth UTC-12)**
 | Paper review period (reviewing) | | <del>28 September -- 18 October 2024</del> <br> **28 September -- 25 October 2024**
 | Paper review period (consolidate by co-chairs) | | <del>19 -- 26 October 2024</del> <br> **26 -- 30 October 2024**
-| Author notification | <del>Tuesday</del> **Thursday** | <del>29 October 2024</del> <br> **31 October 2024**
+| Author notification | <del>Tuesday</del> <del>Thursday</del> **Wednesday** | <del>29 October 2024</del> <br> <del>31 October 2024</del> <br>**6 November 2024**
 | Camera-ready deadline | Tuesday | 12 November 2024 (**23:59 Anywhere On Earth UTC-12**)
 | Proceedings ready | Saturday | 30 November 2024
 | Conference (Tutorial) | Monday | 2 December 2024
