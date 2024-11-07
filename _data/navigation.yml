@@ -7,7 +7,7 @@ main:
     url: /keynotes
 
   - title: "Programme"
-    url: /coming_soon
+    url: /program
   
   - title: "Venue"
     url: /venue
