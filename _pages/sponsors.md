@@ -32,6 +32,10 @@ bronze:
     image_path: /assets/images/sponsors/university-of-melbourne.svg
     alt: University of Melbourne School of Computing and Information Systems
     title: University of Melbourne School of Computing and Information Systems
+  - url: https://unsloth.ai/
+    image_path: /assets/images/sponsors/unsloth.png
+    alt: Unsloth AI
+    title: Unsloth AI
 
 ---
 
