@@ -21,7 +21,8 @@ toc_label: "&nbsp;Keynote"
 
 The following speakers have graciously agreed to give keynotes at ALTA 2024.
 
-## Public Lecture
+## Public Lecture - Monday 2nd December 5.30pm-6.30pm, Birch Building, ANU
+
 #### Professor Eduard Hovy - University of Melbourne
 
 ![Professor Eduard Hovy](/assets/images/keynotes/thumbnail_hovy-2022-UniMelb.png)
