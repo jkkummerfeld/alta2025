@@ -37,6 +37,10 @@ bronze:
     alt: Unsloth AI
     title: Unsloth AI
 host:
+  - url: https://www.anu.edu.au/
+    image_path: /assets/images/sponsors/anu.png
+    alt: The Australian National University (ANU)
+    title: The Australian National University (ANU)
   - url: https://cybernetics.anu.edu.au/
     image_path: /assets/images/sponsors/anu-cyber.png
     alt: ANU School of Cybernetics
@@ -49,10 +53,6 @@ host:
     image_path: /assets/images/sponsors/anu-slll.jpg
     alt: ANU School of Literature, Languages and Linguistics
     title: ANU School of Literature, Languages and Linguistics
-  - url: https://www.anu.edu.au/
-    image_path: /assets/images/sponsors/anu.png
-    alt: The Australian National University (ANU)
-    title: The Australian National University (ANU)
     
 ---
 
@@ -72,14 +72,14 @@ host:
 }
 .sponsors-list.html a { text-decoration: none; }
 .sponsors-list.html > a > .dummy-padding { margin-top: 100%; }
-.sponsors-list > a > img { margin: 0; max-height: 5rem;}
+.sponsors-list > a > img { margin: 0.2; max-height: 5rem; object-fit: contain; }
 .sponsors-list.html > a:hover { box-shadow: 0 0 10px #00000044; }
 .sponsors-list.html > a:hover > img { box-shadow: none !important; }
 </style>
 
 For a copy of our sponsorship prospectus, please reach out to our Sponsorship Chair, [Mr Charbel El-Khaissi](mailto:charbel.el-khaissi@anu.edu.au?Subject=Sponsorship inquiry from ALTA 2024 website). 
 
-ALTA 2024 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
+ALTA 2024 is extremely grateful to all sponsors. We simply couldn't run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
 
 <!-- ## Supporting Partner
