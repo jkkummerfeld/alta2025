@@ -46,7 +46,7 @@ host:
     alt: ANU School of Culture, History & Language
     title: ANU School of Culture, History & Language
   - url: https://slll.cass.anu.edu.au/
-    image_path: /assets/images/sponsors/anu-slll.png
+    image_path: /assets/images/sponsors/anu-slll.jpg
     alt: ANU School of Literature, Languages and Linguistics
     title: ANU School of Literature, Languages and Linguistics
   - url: https://www.anu.edu.au/
