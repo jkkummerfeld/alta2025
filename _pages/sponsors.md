@@ -36,7 +36,24 @@ bronze:
     image_path: /assets/images/sponsors/unsloth.png
     alt: Unsloth AI
     title: Unsloth AI
-
+host:
+  - url: https://cybernetics.anu.edu.au/
+    image_path: /assets/images/sponsors/anu-cyber.png
+    alt: ANU School of Cybernetics
+    title: ANU School of Cybernetics
+  - url: https://chl.anu.edu.au/
+    image_path: /assets/images/sponsors/anu-chl.png
+    alt: ANU School of Culture, History & Language
+    title: ANU School of Culture, History & Language
+  - url: https://slll.cass.anu.edu.au/
+    image_path: /assets/images/sponsors/anu-slll.png
+    alt: ANU School of Literature, Languages and Linguistics
+    title: ANU School of Literature, Languages and Linguistics
+  - url: https://www.anu.edu.au/
+    image_path: /assets/images/sponsors/anu.png
+    alt: The Australian National University (ANU)
+    title: The Australian National University (ANU)
+    
 ---
 
 <style>
@@ -92,6 +109,10 @@ ALTA 2024 is extremely grateful to all sponsors. We simply couldn’t run the co
 ## Bronze Sponsor
 
 {% include sponsors-list.html id="bronze" layout="third" %}
+
+## Host Sponsor
+
+{% include sponsors-list.html id="host" layout="third" %}
 
 <!-- ## Event Sponsors
 
