@@ -46,10 +46,29 @@ Large language models (LLMs) have demonstrated exceptional abilities that extend
 #### Bio
 Jing Jiang is a Professor in the School of Computing at the Australian National University. Previously she was a Professor and Director of the AI & Data Science Cluster in the School of Computing and Information Systems at the Singapore Management University. Her research interests include natural language processing, text mining, and machine learning. She has received two test-of-time awards for her work on social media analysis, and she was named Singapore's 100 Women in Tech in 2021. She holds a PhD degree in Computer Science from the University of Illinois Urbana-Champaign.
 
-### Steven Bird - Charles Darwin University
+### Professor Steven Bird - Charles Darwin University
+<img src="/assets/images/keynotes/steven-bird-cdu.jpg" alt="Professor Steven Bird" style="width:200px;"/>
 
-Information will be available soon. 
+#### Language Technology and the Metacrisis
+#### Abstract
+Despite their manifold benefits, language technologies are contributing to several unfolding crises. Small screens deliver mainstream content across the world and entice children of minoritised communities away from their ancestral languages. The data centres that power large language models  depend on the mining of ever more rare earth metals from indigenous lands and emit ever more carbon. Malicious actors flood social media with fake news, provoking extremism, division, and war. Common to these crises is content, i.e. language content, increasingly generated and accessed using language technologies. These developments – the language crisis, the environmental crisis, and the meaning crisis – compound each other in what is being referred to as the metacrisis. How are we to respond, then, as a community of practice who is actively developing still more language technologies? I believe that a good first step is to bring our awareness to the matter and to rethink what we are doing. We must be suspicious of purely technological solutions which may only exacerbate problems that were created by our use of technology. Instead, I argue that we should approach the problem as social and cultural. I will share stories from a small and highly multilingual indigenous society who understands language not as sequence data but as social practice, and who understands language resources not as annotated text and speech but as stories and knowledge practices of language owners. I will explore ramifications for our work in the space of language technologies, and propose a relational approach to language technology that avoids extractive processes and centres speech communities.
+
+#### Bio
+Over the past three decades, Steven Bird has been working with minoritised people groups in Africa, Melanesia, Amazonia, and Australia, and exploring how people keep their oral languages and cultures strong. He has held academic appointments at Edinburgh, UPenn, Berkeley, and Melbourne. Steven established the ACL Anthology, the Open Language Archives Community and the Natural Language Toolkit, and is past president of the Association for Computational Linguistics. Since 2017 he has been research professor at Charles Darwin University, where he collaborates with Indigenous leaders and directs the Top End Language Lab, http://language-lab.cdu.edu.au. Steven pursues other language-related projects at http://aikuma.org.
+
 
 ### Kyla Quinn - Australian Department of Defence
+<img src="/assets/images/keynotes/Kyla_Quinn.jpeg" alt="Kyla Quinn" style="width:200px;"/>
 
-Information will be available soon. 
+#### LLMs are great but ...
+#### Abstract
+Knowledge workers are crying out for ways to industrialised the boring parts of their jobs, company executives are looking for ways to get a computer to replace all the humans and everyone thinks an LLM will solve all of their problems. But how do we ensure that we aren't creating a catastrophic failure when we deploy LLMs in situations where we can’t afford to fail?
+
+In this keynote, I will explore some of the issues we need to contend with when we put LLMs and other language technologies into an enterprise. I will touch on data preprocessing, governance, user trust and interpretation. 
+
+#### Bio
+Kyla Quinn is the Technical Director of Data and Analytic Services Branch at the Australian Signals Directorate. In this role she provides strategic direction for staff involved in developing analytic tooling, from the AI and ML used in the back end through to user interfaces. Kyla has a background in engineering and linguistics and has recently submitted her PhD which is an evolutionary exploration of paradigm syncretism in the world's languages through Bayesian analysis and LLM embeddings.
+
+## Panel Discussion
+
+Information will be available soon.
