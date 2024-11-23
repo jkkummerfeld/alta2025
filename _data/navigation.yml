@@ -8,7 +8,10 @@ main:
 
   - title: "Programme"
     url: /program
-  
+ 
+  - title: "Papers"
+    url: /papers
+ 
   - title: "Venue"
     url: /venue
 
@@ -21,9 +24,6 @@ main:
   - title: "Shared Task"
     url: https://www.alta.asn.au/events/sharedtask2024/
   
-  - title: "Papers"
-    url: /coming_soon
-
   - title: "Committees"
     url: /committees/local
 
