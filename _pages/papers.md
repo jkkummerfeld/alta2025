@@ -86,4 +86,4 @@ Dima Galat
 Joel Thomas, Gia Bao Hoang and Lewis Mitchell
 
 
-Please inform us via [workshop@alta.asn.au](mailto:workshop@alta.asn.au) if there are any issues with paper details.
+*Please inform us via [workshop@alta.asn.au](mailto:workshop@alta.asn.au) if there are any issues with paper details.*
