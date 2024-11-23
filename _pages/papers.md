@@ -8,17 +8,17 @@ toc: true
 
 ## Long Papers
 
-### Topic: Education and Data Visualisation
+### Education and Data Visualisation
 - [Do LLMs Generate Creative and Visually Accessible Data Visualizations?](/assets/papers/13.pdf)  
 Clarissa Miranda-Pena, Andrew Reeson, Cecile Paris, Josiah Poon, Jonathan K. Kummerfeld
 - [A Closer Look at Tool-based Logical Reasoning with LLMs: The Choice of Tool Matters](/assets/papers/16.pdf)  
 Long Hei Matthew Lam, Ramya Keerthy Thatikonda, Ehsan Shareghi
 
-### Topic: Multilingual NLP and Low-Resource Language Processing
+### Multilingual NLP and Low-Resource Language Processing
 - [Generating bilingual example sentences with large language models as lexicography assistants](/assets/papers/27.pdf)  
 Raphael Merx, Ekaterina Vylomova, Kemal Kurniawan
 
-### Topic: Advances in NLP Models and Techniques
+### Advances in NLP Models and Techniques
 - [Generating bilingual example sentences with large language models as lexicography assistants](/assets/papers/3.pdf)  
 Michael Lambropoulos, Shunichi Ishihara
 - [GenABSA-Vec: Generative Aspect-Based Sentiment Feature Vectorization for Document-Level Sentiment Classification](/assets/papers/15.pdf)  
@@ -28,7 +28,7 @@ Toby Simonds, Jey Han Lau, Kemal Kurniawan
 - [Advancing Community Directories: Leveraging LLMs for Automated Extraction in MARC Standard Venue Availability Notes](/assets/papers/37.pdf)  
 Mostafa Didar Mahdi, Thushari Atapattu, Menasha Thilakaratne
 
-### Topic: Ethical Considerations and Social Media Analysis
+### Ethical Considerations and Social Media Analysis
 - [Which Side Are You On? Investigating Politico-Economic Bias in Nepali Language Models](/assets/papers/36.pdf)  
 Surendrabikram Thapa, Kritesh Rauniyar, Ehsan Barkhordar, Hariram Veeramani, Usman Naseem
 - [Lesser the Shots, Higher the Hallucinations: Exploration of Genetic Information Extraction using Generative Large Language Models](/assets/papers/40.pdf)  
@@ -38,7 +38,7 @@ Minghan Wang, Thuy-Trang Vu, Jinming Zhao, Fatemeh Shiri, Ehsan Shareghi, R
 
 ## Short Papers
 
-### Topic: Healthcare, Biomedical, and Legal Applications
+### Healthcare, Biomedical, and Legal Applications
 - [Rephrasing Electronic Health Records for Pretraining Clinical Language Models](/assets/papers/19.pdf)  
 Jinghui Liu, Anthony Nguyen
 - [Breaking the Silence: How Online Forums Address Lung Cancer Stigma and Offer Support](/assets/papers/22.pdf)  
@@ -46,14 +46,14 @@ Jiahe Liu, Mike Conway, Daniel Cabrera Lozoya
 - [L.E.G.A.L. (Leveraging Expert Guidance for AI in Law): A RAG-Based System for Legal Document Navigation](/assets/papers/39.pdf)  
 Hui Chia, Geordie Z. Zhang, Daniel Russo-Batterham, Kabir Manandhar Shrestha, Uy Thinh Quang, Zeyu Wang
 
-### Topic: Multilingual NLP and Low-Resource Language Processing
+### Multilingual NLP and Low-Resource Language Processing
 - ["Is Hate Lost in Translation?": A Case Study of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)  
 Fai Leui Chan, Duke Nguyen, Aditya Joshi
 - [Comparison of Multilingual and Bilingual Models for Satirical News Detection of Arabic and English](/assets/papers/21.pdf)  
 Omar W. Abdalla, Aditya Joshi, Rahat Masood, Salil S. Kanhere
 
 
-### Topic: Ethical Considerations and Social Media Analysis
+### Ethical Considerations and Social Media Analysis
 - [Personality Profiling: How informative are social media profiles in predicting personal information?](/assets/papers/5.pdf)  
 Joshua Watt, Lewis Mitchell
 
@@ -62,30 +62,28 @@ Daniel Cabrera Lozoya, Jude P Mikal, Yun Leng Wong, Laura S Hemmy, Mike Conw
 
 ## Abstracts
 
-### Topic: Education and Data Visualisation
+### Education and Data Visualisation
 - [Can LLMs be Effective in-class Tutors?](/assets/papers/14.pdf)  
 Sebastian Kobler, Jonathan K. Kummerfeld
 - [Creating a Real-world Benchmark for Text-to-Vis](/assets/papers/12.pdf)  
 Hy Nguyen, Andrew Reeson, Cecile Paris, Josiah Poon, Jonathan K. Kummerfeld
 
-### Topic: Healthcare, Biomedical, and Legal Applications
+### Healthcare, Biomedical, and Legal Applications
 - [Enhancing Clinical Coding through Interactive Machine Learning](/assets/papers/17.pdf)  
 Yidong Gan, Maciej Rybinski, Jonathan K. Kummerfeld
 
-### Topic: Advances in NLP Models and Techniques
+### Advances in NLP Models and Techniques
 - [Comparing Plausibility Estimates in Base and Instruction-Tuned Large Language Models](/assets/papers/6.pdf)  
 Carina Kauf, Emmanuele Chersoni, Alessandro Lenci, Evelina Fedorenko, Anna A Ivanova
 
 ## Shared Task
 
-- Shared Task Paper 1: [Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles](/assets/papers/shared1.pdf)  
+- [Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles](/assets/papers/shared1.pdf)  
 Diego Mollá, Qiongkai Xu, Zijie Zeng, Zhuang Li
-
-- Shared Task Paper 2: [Advancing LLM detection in the ALTA 2024 Shared Task: Techniques and Analysis](/assets/papers/shared2.pdf)  
+- [Advancing LLM detection in the ALTA 2024 Shared Task: Techniques and Analysis](/assets/papers/shared2.pdf)  
 Dima Galat
-
-- Shared Task Paper 3: [Simple models are all you need: Ensembling stylometric, part-of-speech, and information-theoretic models for the ALTA 2024 Shared Task](/assets/papers/shared3.pdf)  
+- [Simple models are all you need: Ensembling stylometric, part-of-speech, and information-theoretic models for the ALTA 2024 Shared Task](/assets/papers/shared3.pdf)  
 Joel Thomas, Gia Bao Hoang and Lewis Mitchell
 
 
-Please inform us via workshop@alta.asn.au if there are any issues with paper details.
+Please inform us via [workshop@alta.asn.au](mailto:workshop@alta.asn.au) if there are any issues with paper details.
