@@ -34,6 +34,10 @@ Canberra airport is a [$AUD 25-30 taxi ride from ANU](https://www.canberraairpor
 
 Canberra is a 7-8 hour drive from Melbourne, and approximately 4-5 hours from Sydney. Please check with your accommodation provider for car parking specifics. 
 
+##### Car parking on campus 
+
+At this time of year, there is generally plenty of parking on campus near the Birch Building (Building 35, 35 Science Road, or see this link to [Google Maps](https://maps.app.goo.gl/Sn5hNFysL9ZzqNeV6)). For visitor parking, [ANU uses the CelloPark mobile phone app (PDF, 187k)](https://services.anu.edu.au/files/guidance/Information_sheet-CellOPark_users_2023.pdf), and you can expect to pay about $17 per day for parking. There are no parking machines.
+
 ## Accommodation 
 
 Canberra boasts a wide range of accommodation providers for every budget. 
