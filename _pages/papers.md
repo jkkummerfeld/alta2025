@@ -24,7 +24,7 @@ Michael Lambropoulos, Shunichi Ishihara
 - [GenABSA-Vec: Generative Aspect-Based Sentiment Feature Vectorization for Document-Level Sentiment Classification](/assets/papers/15.pdf)  
 Liu Minkang, Jasy Liew Suet Yan
 - [MoDEM: Mixture of Domain Expert Models](/assets/papers/31.pdf)  
-  Toby Simonds, Kemal Kurniawan, Jey Han Lau
+Toby Simonds, Kemal Kurniawan, Jey Han Lau
 - [Advancing Community Directories: Leveraging LLMs for Automated Extraction in MARC Standard Venue Availability Notes](/assets/papers/37.pdf)  
 Mostafa Didar Mahdi, Thushari Atapattu, Menasha Thilakaratne
 
