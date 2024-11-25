@@ -47,7 +47,7 @@ Jiahe Liu, Mike Conway, Daniel Cabrera Lozoya
 Hui Chia1, Geordie Z. Zhang, Daniel Russo-Batterham, Kabir Manandhar Shrestha, Uy Thinh Quang, Zeyu Wang, Jeannie Marie Paterson
 
 ### Multilingual NLP and Low-Resource Language Processing
-- ["Is Hate Lost in Translation?": A Case Study of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)  
+- ["Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)  
 Fai Leui Chan, Duke Nguyen, Aditya Joshi
 - [Comparison of Multilingual and Bilingual Models for Satirical News Detection of Arabic and English](/assets/papers/21.pdf)  
 Omar W. Abdalla, Aditya Joshi, Rahat Masood, Salil S. Kanhere
