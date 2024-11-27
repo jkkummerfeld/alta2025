@@ -23,13 +23,12 @@ Time Zone: AEDT (UTC+11)
 
 ## Monday, December 2
 **Location**: Seminar Room 2.02
+
 - 13:00: Tutorial Part 1
 - 14:00: Afternoon Tea
-- 14:15: Tutorial Part 2
-- 15:15: Break
-- 15:30: Tutorial Part 3
-- 16:30: Tutorial Conclude and NLP Meetup Refreshments
-- 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne) (ends at 18:15)
+- 14:30: Tutorial Part 2
+- 15:30: Closing tutorial
+- 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne)
 
 ## Tuesday, December 3
 **Location**: Forum
