@@ -29,12 +29,12 @@ Time Zone: AEDT (UTC+11)
 - 15:15: Break
 - 15:30: Tutorial Part 3
 - 16:30: Tutorial Conclude and NLP Meetup Refreshments
-- 17:30: [Public Lecture (1 hour) -- Eduard Hovy (University of Melbourne)](/keynotes/#professor-eduard-hovy---university-of-melbourne), Ends at 18:15
+- 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne) (ends at 18:15)
 
 ## Tuesday, December 3
 **Location**: Forum
 - 08:45: Opening
-- 09:00: [Keynote #1 -- Jing Jiang (Australian National University)](/keynotes/#professor-jing-jiang---australian-national-university)
+- 09:00: [Keynote #1 -- Jing Jiang](/keynotes/#professor-jing-jiang---australian-national-university)
 - 10:00: Morning Tea
 - 10:30: Minute Madness
 - 11:00: Session #1 -- Oral Presentations (Topic: Education and Data Visualisation)
@@ -50,7 +50,7 @@ Time Zone: AEDT (UTC+11)
   - [A Closer Look at Tool-based Logical Reasoning with LLMs: The Choice of Tool Matters](/assets/papers/16.pdf)
     - Lead Author: Long Hei Matthew Lam
     - Type: Long Paper (Time: 20 minutes)
-- 12:00: [Keynote #2 -- Steven Bird (Charles Darwin University)](/keynotes/#professor-steven-bird---charles-darwin-university), delivered online
+- 12:00: [Keynote #2 -- Steven Bird](/keynotes/#professor-steven-bird---charles-darwin-university) (delivered online)
 - 13:00: Lunch
 - 14:00: Session #2 -- Oral Presentations (Topic: Healthcare, Biomedical, and Legal Applications)
   - [Enhancing Clinical Coding through Interactive Machine Learning](/assets/papers/17.pdf)
@@ -81,7 +81,7 @@ Time Zone: AEDT (UTC+11)
 
 ## Wednesday, December 4
 **Location**: Forum
-- 09:00: Keynote #3 -- Kyla Quinn (Australian Signal Directorate)
+- 09:00: [Keynote #3 -- Kyla Quinn](/keynotes/#kyla-quinn---australian-department-of-defence)
 - 10:00: Morning Tea
 - 10:30: Session #4 -- Oral Presentations (Topic: Advances in NLP Models and Techniques)
   - [Towards an Implementation of Rhetorical Structure Theory in Discourse Coherence Modelling](/assets/papers/3.pdf)
@@ -128,4 +128,4 @@ Time Zone: AEDT (UTC+11)
     - Lead Author: Joel Thomas
     - Time: 13 minutes
 - 15:30: ALTA AGM
-- 16:00: Best Paper Award / Shared Task Award / Closing, Ends at 17:00
+- 16:00: Best Paper Award / Shared Task Award / Closing (ends at 17:00)
