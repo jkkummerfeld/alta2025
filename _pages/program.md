@@ -29,7 +29,7 @@ Time Zone: AEDT (UTC+11)
 - 15:15: Break
 - 15:30: Tutorial Part 3
 - 16:30: Tutorial Conclude and NLP Meetup Refreshments
-- 17:30: [Public Lecture (1 hour) -- Eduard Hovy (University of Melbourne)](/keynotes/#professor-eduard-hovy---university-of-melbourne), ends at 18:15
+- 17:30: [Public Lecture (1 hour) -- Eduard Hovy (University of Melbourne)](/keynotes/#professor-eduard-hovy---university-of-melbourne), Ends at 18:15
 
 ## Tuesday, December 3
 **Location**: Forum
@@ -38,7 +38,6 @@ Time Zone: AEDT (UTC+11)
 - 10:00: Morning Tea
 - 10:30: Minute Madness
 - 11:00: Session #1 -- Oral Presentations (Topic: Education and Data Visualisation)
-  - Paper 14: Can LLMs be Effective in-class Tutors?
   - [Can LLMs be Effective in-class Tutors?](/assets/papers/14.pdf)
     - Lead Author: Sebastian Kobler
     - Type: Abstract Paper (Time: 8 minutes)
@@ -68,7 +67,7 @@ Time Zone: AEDT (UTC+11)
     - Type: Short Paper (Time: 15 minutes)
 - 15:00: Afternoon Tea
 - 15:15: [Panel Discussion -- Hanna Suominen, Anna Leontjeva, and Kyla Quinn](/keynotes/#panel-discussion)
-- 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing) (ends: 17:05)
+- 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing), Ends at 17:05
   - ["Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)
     - Lead Author: Fai Leui Chan
     - Type: Short Paper (Time: 15 minutes)
@@ -129,4 +128,4 @@ Time Zone: AEDT (UTC+11)
     - Lead Author: Joel Thomas
     - Time: 13 minutes
 - 15:30: ALTA AGM
-- 16:00: Best Paper Award / Shared Task Award / Closing (ends at 17:00)
+- 16:00: Best Paper Award / Shared Task Award / Closing, Ends at 17:00
