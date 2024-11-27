@@ -24,6 +24,8 @@ Time Zone: AEDT (UTC+11)
 ## Monday, December 2
 **Location**: Seminar Room 2.02
 
+[Tutorial overview (PDF, 60 Kb)](/assets/images/tutorial/alta-2024-tutorial-details.pdf)
+
 - 13:00: Tutorial Part 1
 - 14:00: Afternoon Tea
 - 14:30: Tutorial Part 2
