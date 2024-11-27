@@ -18,6 +18,7 @@ The 22nd Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| 2024-11-27 | The ALTA 2024 full programme is now available.
 | 2024-10-31 | Author notification is postponed to 6 November 2024.
 | 2024-10-29 | Registrations are now open.
 | 2024-09-13 | The submission deadline is [extended to 27 September 2024](/calls/papers).
