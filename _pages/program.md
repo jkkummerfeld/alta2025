@@ -26,9 +26,9 @@ Time Zone: AEDT (UTC+11)
 
 [Tutorial overview (PDF, 60 Kb)](/assets/images/tutorial/alta-2024-tutorial-details.pdf)
 
-- 13:00: Tutorial Part 1
+- 13:00: Tutorial
 - 14:00: Afternoon Tea
-- 14:30: Tutorial Part 2
+- 14:30: Tutorial (cont'd)
 - 15:30: Closing tutorial
 - 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne)
 
