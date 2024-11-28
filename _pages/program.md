@@ -33,7 +33,7 @@ Time Zone: AEDT (UTC+11)
 - 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne)
 
 ## Tuesday, December 3
-**Location**: Forum
+**Location**: Forum (Innovation Space 2.04)
 - 08:45: Opening
 - 09:00: [Keynote #1 -- Jing Jiang](/keynotes/#professor-jing-jiang---australian-national-university)
 - 10:00: Morning Tea
@@ -68,7 +68,7 @@ Time Zone: AEDT (UTC+11)
     - Type: Short Paper (Time: 15 minutes)
 - 15:00: Afternoon Tea
 - 15:15: [Panel Discussion -- Hanna Suominen, Anna Leontjeva, and Kyla Quinn](/keynotes/#panel-discussion)
-- 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing), Ends at 17:05
+- 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing)
   - ["Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)
     - Lead Author: Fai Leui Chan
     - Type: Short Paper (Time: 15 minutes)
@@ -81,7 +81,7 @@ Time Zone: AEDT (UTC+11)
 - 18:00: Dinner (Location: Badger & Co)
 
 ## Wednesday, December 4
-**Location**: Forum
+**Location**: Forum (Innovation Space 2.04)
 - 09:00: [Keynote #3 -- Kyla Quinn](/keynotes/#kyla-quinn---australian-department-of-defence)
 - 10:00: Morning Tea
 - 10:30: Session #4 -- Oral Presentations (Topic: Advances in NLP Models and Techniques)
