@@ -11,11 +11,11 @@ toc: true
 ### Education and Data Visualisation
 - [Do LLMs Generate Creative and Visually Accessible Data Visualizations?](/assets/papers/13.pdf)  
 Clarissa Miranda-Pena, Andrew Reeson, Cecile Paris, Josiah Poon, Jonathan K. Kummerfeld
-- [A Closer Look at Tool-based Logical Reasoning with LLMs: The Choice of Tool Matters](/assets/papers/16.pdf)  
+- [**Outstanding Paper**] [A Closer Look at Tool-based Logical Reasoning with LLMs: The Choice of Tool Matters](/assets/papers/16.pdf)  
 Long Hei Matthew Lam, Ramya Keerthy Thatikonda, Ehsan Shareghi
 
 ### Multilingual NLP and Low-Resource Language Processing
-- [Generating bilingual example sentences with large language models as lexicography assistants](/assets/papers/27.pdf)  
+- [**Best Paper**] [Generating bilingual example sentences with large language models as lexicography assistants](/assets/papers/27.pdf)  
 Raphael Merx, Ekaterina Vylomova, Kemal Kurniawan
 
 ### Advances in NLP Models and Techniques
