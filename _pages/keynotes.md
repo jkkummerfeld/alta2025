@@ -71,4 +71,10 @@ Kyla Quinn is the Technical Director of Data and Analytic Services Branch at the
 
 ## Panel Discussion
 
-Information will be available soon.
+### [Kyla Quinn - Australian Department of Defence](#kyla-quinn---australian-department-of-defence)
+
+
+### Professor Hanna Suominen - Australian National University
+<img src="/assets/images/keynotes/hanna-suominen.jpg" alt="Professor Hanna Suominen" style="width:200px;"/>
+
+Prof Hanna Suominen is at the forefront of accelerating health impact from personalised precision medicine technology through the application of advanced Data Analytics and Machine/Deep Learning. She is a Professor of Computer Science at the Australian National University (ANU), the Associate Director (Neuroinformatics) of the ANU Eccles Institute of Neuroscience, and the Co-Chair/Executive Leader (Computing & Engineering) of the ANU Our Health in Our Hands strategic initiative. She previously worked for the ANU School of Computing as its first Associate Director (Engagement & Impact), establishing the portfolio. Before this, she was the Leader of the Theory and Applications in Multimodal Pattern Analysis and Natural Language Processing teams at Data61/CSIRO and NICTA, respectively. Hanna obtained her Master of Science (Applied Mathematics) in 2005, followed by a Doctor of Philosophy and Adjunct Professorship (a.k.a. docent) in Computer Science in 2009 and 2013, respectively, from the University of Turku, Finland. In 2019, she became a Senior Fellow of the Higher Education Academy from the ANU Educational Fellowship Scheme. In 2020, she graduated with a Master of Leadership (Curriculum & Pedagogy) from the Monash University. She has 20 years’ experience of working at the interface between technology, education, and health sciences, and is passionate about co-producing research and education with Lightcast and Konan Medical, among others. By bridging disciplines, professions, and areas of expertise, Prof Suominen is co-creating tools that will transform tedious tasks into AI-assisted workflows, thus releasing human labour for more meaningful duties and enhancing Australia’s prosperity.
