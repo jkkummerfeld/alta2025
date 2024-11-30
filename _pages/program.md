@@ -67,7 +67,7 @@ Time Zone: AEDT (UTC+11)
     - Lead Author: Hui Chia
     - Type: Short Paper (Time: 15 minutes)
 - 15:00: Afternoon Tea
-- 15:15: [Panel Discussion -- Hanna Suominen, Anna Leontjeva, and Kyla Quinn](/keynotes/#panel-discussion)
+- 15:15: [Panel Discussion](/keynotes/#panel-discussion)
 - 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing)
   - ["Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)
     - Lead Author: Fai Leui Chan
