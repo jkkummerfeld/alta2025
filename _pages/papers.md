@@ -43,8 +43,6 @@ Minghan Wang, Thuy-Trang Vu, Jinming Zhao, Fatemeh Shiri, Ehsan Shareghi, Gholam
 Jinghui Liu, Anthony Nguyen
 - [Breaking the Silence: How Online Forums Address Lung Cancer Stigma and Offer Support](/assets/papers/22.pdf)  
 Jiahe Liu, Mike Conway, Daniel Cabrera Lozoya
-- [L.E.G.A.L. (Leveraging Expert Guidance for AI in Law): A RAG-Based System for Legal Document Navigation](/assets/papers/39.pdf)  
-Hui Chia1, Geordie Z. Zhang, Daniel Russo-Batterham, Kabir Manandhar Shrestha, Uy Thinh Quang, Zeyu Wang, Jeannie Marie Paterson
 
 ### Multilingual NLP and Low-Resource Language Processing
 - ["Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)  
@@ -71,6 +69,8 @@ Hy Nguyen, Andrew Reeson, Cecile Paris, Josiah Poon, Jonathan K. Kummerfeld
 ### Healthcare, Biomedical, and Legal Applications
 - [Enhancing Clinical Coding through Interactive Machine Learning](/assets/papers/17.pdf)  
 Yidong Gan, Maciej Rybinski, Ben Hachey, Jonathan K. Kummerfeld
+- [L.E.G.A.L. (Leveraging Expert Guidance for AI in Law): A RAG-Based System for Legal Document Navigation](/assets/papers/39.pdf)  
+Hui Chia1, Geordie Z. Zhang, Daniel Russo-Batterham, Kabir Manandhar Shrestha, Uy Thinh Quang, Zeyu Wang, Jeannie Marie Paterson
 
 ### Advances in NLP Models and Techniques
 - [Comparing Plausibility Estimates in Base and Instruction-Tuned Large Language Models](/assets/papers/6.pdf)  

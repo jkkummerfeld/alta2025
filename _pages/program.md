@@ -65,7 +65,7 @@ Time Zone: AEDT (UTC+11)
     - Type: Short Paper (Time: 15 minutes)
   - [L.E.G.A.L. (Leveraging Expert Guidance for AI in Law): A RAG-Based System for Legal Document Navigation](/assets/papers/39.pdf)
     - Lead Author: Hui Chia
-    - Type: Short Paper (Time: 15 minutes)
+    - Type: Abstract Paper (Time: 8 minutes)
 - 15:00: Afternoon Tea
 - 15:15: [Panel Discussion](/keynotes/#panel-discussion)
 - 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing)
