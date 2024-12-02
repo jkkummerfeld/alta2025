@@ -124,7 +124,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: https://github.com/cdawei/alta2024
     - label: "Join the ALTA Slack"
-      icon: "fa fa-slack"
+      icon: "fa-brands fa-slack"
       url: https://join.slack.com/t/alta-nlp/shared_invite/zt-2unu7ju1c-V52yq~q~etCpPIFjAMNPbQ
     - label: "ALTA"
       icon: "fas fa-fw fa-link"
