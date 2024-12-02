@@ -21,6 +21,8 @@ toc_label: "&nbsp;Program"
 
 Time Zone: AEDT (UTC+11)
 
+[Join the ALTA Slack to stay connected, we're in the `#ALTA2024` channel](https://join.slack.com/t/alta-nlp/shared_invite/zt-2unu7ju1c-V52yq~q~etCpPIFjAMNPbQ)
+
 ## Monday, December 2
 **Location**: Seminar Room 2.02 (Tutorial), Innovation Space 2.04 (Public Lecture)
 
