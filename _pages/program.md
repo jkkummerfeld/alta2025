@@ -22,7 +22,7 @@ toc_label: "&nbsp;Program"
 Time Zone: AEDT (UTC+11)
 
 ## Monday, December 2
-**Location**: Seminar Room 2.02
+**Location**: Seminar Room 2.02 (Tutorial), Innovation Space 2.04 (Public Lecture)
 
 [Tutorial overview (PDF, 60 Kb)](/assets/images/tutorial/alta-2024-tutorial-details.pdf)
 
