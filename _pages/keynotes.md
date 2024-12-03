@@ -25,7 +25,7 @@ The following speakers have graciously agreed to give public lecture, keynotes, 
 ### Professor Eduard Hovy - University of Melbourne
 <img src="/assets/images/keynotes/thumbnail_hovy-2022-UniMelb.png" alt="Professor Eduard Hovy" style="width:200px;"/>
 
-#### Generative LLMs:How they work and where they are headed
+#### Generative LLMs:How they work and where they are headed ([Public Lecture Slides](/assets/images/keynotes/24nov-future-of-LMM-NLP-ALTA-v10.pdf))
 [Register for the Public Lecture](https://events.humanitix.com/alta-2024?hxchl=hex-qrc&hxref=evt)
 #### Abstract
 Generative AI has unleashed hype and concern. But it is surprising how few people understand how simple it is at heart, and how some of its shortcomings spring from its essential nature and will remain hard to overcome. In this talk I briefly describe the essential process and explore the three principal directions of GenLLM research: making them usable, useful, and understandable. 
