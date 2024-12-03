@@ -39,7 +39,7 @@ Professor Eduard Hovy is Executive Director, [Melbourne Connect](https://melbcon
 ### Professor Jing Jiang - Australian National University
 <img src="/assets/images/keynotes/jing-jiang.jpeg" alt="Professor Jing Jiang" style="width:200px;"/>
 
-#### LLM Evaluation: Writing Styles, Role-playing, and Visual Comprehension
+#### LLM Evaluation: Writing Styles, Role-playing, and Visual Comprehension ([Keynote Slides](/assets/images/keynotes/ALTA_2024_Jing_Jiang_v2.pdf))
 #### Abstract
 Large language models (LLMs) have demonstrated exceptional abilities that extend beyond language understanding and generation. This underscores the need for a more comprehensive evaluation of LLMs that covers a broader spectrum of capabilities beyond traditional NLP tasks. In this talk, I will share some of our recent work on LLM evaluation, with a focus on LLMs' writing styles and role-playing capabilities, and the abilities of large vision-language models to combine and interpret visual and linguistic signals in complex scenarios. 
 
