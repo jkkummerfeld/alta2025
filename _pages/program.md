@@ -32,15 +32,15 @@ Time Zone: AEDT (UTC+11)
 - 14:00: Afternoon Tea
 - 14:30: [Tutorial (cont'd)](https://tinyurl.com/alta2024-tutorial)
 - 15:30: Closing tutorial
-- 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne)
+- 17:30: [Public Lecture (1 hour) -- Eduard Hovy](/keynotes/#professor-eduard-hovy---university-of-melbourne) ([Recording](https://youtu.be/l3OhqB4rBkk?si=3Lk9GA6efiNYeqZc))
 
 ## Tuesday, December 3
 **Location**: Forum (Innovation Space 2.04)
 - 08:45: Opening
-- 09:00: [Keynote #1 -- Jing Jiang](/keynotes/#professor-jing-jiang---australian-national-university)
+- 09:00: [Keynote #1 -- Jing Jiang](/keynotes/#professor-jing-jiang---australian-national-university) ([Recording](https://youtu.be/0b-8FweiDmc?si=ukZq5hxtED8zRL7t))
 - 10:00: Morning Tea
-- 10:30: Minute Madness
-- 11:00: Session #1 -- Oral Presentations (Topic: Education and Data Visualisation)
+- 10:30: Minute Madness ([Recording](https://youtu.be/cTd5cC5djWI?si=79uMsf7ieobPpcp0))
+- 11:00: Session #1 -- Oral Presentations (Topic: Education and Data Visualisation, [Recording](https://youtu.be/tnZyh8WKTFA?si=3o20F7kdeC5TCDZI))
   - [Can LLMs be Effective in-class Tutors?](/assets/papers/14.pdf)
     - Lead Author: Sebastian Kobler
     - Type: Abstract Paper (Time: 8 minutes)
@@ -53,9 +53,9 @@ Time Zone: AEDT (UTC+11)
   - [A Closer Look at Tool-based Logical Reasoning with LLMs: The Choice of Tool Matters](/assets/papers/16.pdf)
     - Lead Author: Long Hei Matthew Lam
     - Type: Long Paper (Time: 20 minutes)
-- 12:00: [Keynote #2 -- Steven Bird](/keynotes/#professor-steven-bird---charles-darwin-university) (delivered online)
+- 12:00: [Keynote #2 -- Steven Bird](/keynotes/#professor-steven-bird---charles-darwin-university) (Delivered online, [Recording](https://youtu.be/YcU_tZIesKI?si=0rEOHA669kJjLJ4i))
 - 13:00: Lunch
-- 14:00: Session #2 -- Oral Presentations (Topic: Healthcare, Biomedical, and Legal Applications)
+- 14:00: Session #2 -- Oral Presentations (Topic: Healthcare, Biomedical, and Legal Applications, [Recording](https://youtu.be/IBruBK2YHHc?si=sI0hPo-F_ZeWiGh7))
   - [Enhancing Clinical Coding through Interactive Machine Learning](/assets/papers/17.pdf)
     - Lead Author: Yidong Gan
     - Type: Abstract Paper (Time: 8 minutes)
@@ -70,7 +70,7 @@ Time Zone: AEDT (UTC+11)
     - Type: Abstract Paper (Time: 8 minutes)
 - 15:00: Afternoon Tea
 - 15:15: [Panel Discussion](/keynotes/#panel-discussion)
-- 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing)
+- 16:15: Session #3 -- Oral Presentations (Topic: Multilingual NLP and Low-Resource Language Processing, [Recording](https://youtu.be/wtuiY_0Yi74?si=Y96dnTMYFtZA73eE))
   - ["Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection](/assets/papers/1.pdf)
     - Lead Author: Fai Leui Chan
     - Type: Short Paper (Time: 15 minutes)
@@ -86,7 +86,7 @@ Time Zone: AEDT (UTC+11)
 **Location**: Forum (Innovation Space 2.04)
 - 09:00: [Keynote #3 -- Kyla Quinn](/keynotes/#kyla-quinn---australian-department-of-defence)
 - 10:00: Morning Tea
-- 10:30: Session #4 -- Oral Presentations (Topic: Advances in NLP Models and Techniques)
+- 10:30: Session #4 -- Oral Presentations (Topic: Advances in NLP Models and Techniques, [Recording](https://youtu.be/b2wfzwh3jks?si=2OlIkmHSHYyKlIzf))
   - [Towards an Implementation of Rhetorical Structure Theory in Discourse Coherence Modelling](/assets/papers/3.pdf)
     - Lead Author: Michael Lambropoulos
     - Type: Long Paper (Time: 20 minutes)
@@ -103,7 +103,7 @@ Time Zone: AEDT (UTC+11)
     - Lead Author: Mostafa Didar Mahdi
     - Type: Long Paper (Time: 20 minutes)
 - 12:00: Lunch
-- 13:00: Session #5 -- Oral Presentations (Topic: Ethical Considerations and Social Media Analysis)
+- 13:00: Session #5 -- Oral Presentations (Topic: Ethical Considerations and Social Media Analysis, [Recording](https://youtu.be/zxvy9933wII?si=KCPMWZNx-c7EkY_g))
   - [Personality Profiling: How informative are social media profiles in predicting personal information?](/assets/papers/5.pdf)
     - Lead Author: Joshua Watt
     - Type: Short Paper (Time: 15 minutes)
@@ -120,7 +120,7 @@ Time Zone: AEDT (UTC+11)
     - Lead Author: Minghan Wang
     - Type: Long Paper (Time: 20 minutes)
 - 14:30: Afternoon Tea
-- 14:45: Session #6 -- Oral Presentations (Shared Task)
+- 14:45: Session #6 -- Oral Presentations (Shared Task, [Recording](https://youtu.be/GhnmfWrNWIA?si=JTJX4K6rnRigaRJC))
   - [Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles](/assets/papers/shared1.pdf)
     - Lead Author: Diego Mollá
     - Time: 13 minutes

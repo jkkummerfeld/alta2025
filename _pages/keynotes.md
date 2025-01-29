@@ -25,7 +25,7 @@ The following speakers have graciously agreed to give public lecture, keynotes, 
 ### Professor Eduard Hovy - University of Melbourne
 <img src="/assets/images/keynotes/thumbnail_hovy-2022-UniMelb.png" alt="Professor Eduard Hovy" style="width:200px;"/>
 
-#### Generative LLMs: How they work and where they are headed ([Public Lecture Slides](/assets/images/keynotes/24nov-future-of-LMM-NLP-ALTA-v10.pdf))
+#### Generative LLMs: How they work and where they are headed ([Slides](/assets/images/keynotes/24nov-future-of-LMM-NLP-ALTA-v10.pdf), [Recording](https://youtu.be/l3OhqB4rBkk?si=8lRMkni8bmvODRLC))
 [Register for the Public Lecture](https://events.humanitix.com/alta-2024?hxchl=hex-qrc&hxref=evt)
 #### Abstract
 Generative AI has unleashed hype and concern. But it is surprising how few people understand how simple it is at heart, and how some of its shortcomings spring from its essential nature and will remain hard to overcome. In this talk I briefly describe the essential process and explore the three principal directions of GenLLM research: making them usable, useful, and understandable. 
@@ -39,7 +39,7 @@ Professor Eduard Hovy is Executive Director, [Melbourne Connect](https://melbcon
 ### Professor Jing Jiang - Australian National University
 <img src="/assets/images/keynotes/jing-jiang.jpeg" alt="Professor Jing Jiang" style="width:200px;"/>
 
-#### LLM Evaluation: Writing Styles, Role-playing, and Visual Comprehension ([Keynote Slides](/assets/images/keynotes/ALTA_2024_Jing_Jiang_v2.pdf))
+#### LLM Evaluation: Writing Styles, Role-playing, and Visual Comprehension ([Slides](/assets/images/keynotes/ALTA_2024_Jing_Jiang_v2.pdf), [Recording](https://youtu.be/0b-8FweiDmc?si=n_-3P6kdpVECKZie))
 #### Abstract
 Large language models (LLMs) have demonstrated exceptional abilities that extend beyond language understanding and generation. This underscores the need for a more comprehensive evaluation of LLMs that covers a broader spectrum of capabilities beyond traditional NLP tasks. In this talk, I will share some of our recent work on LLM evaluation, with a focus on LLMs' writing styles and role-playing capabilities, and the abilities of large vision-language models to combine and interpret visual and linguistic signals in complex scenarios. 
 
@@ -49,7 +49,7 @@ Jing Jiang is a Professor in the School of Computing at the Australian National 
 ### Professor Steven Bird - Charles Darwin University
 <img src="/assets/images/keynotes/steven-bird-cdu.jpg" alt="Professor Steven Bird" style="width:200px;"/>
 
-#### Language Technology and the Metacrisis ([Keynote Slides](/assets/images/keynotes/Bird-ALTA24.pdf))
+#### Language Technology and the Metacrisis ([Slides](/assets/images/keynotes/Bird-ALTA24.pdf), [Recording](https://youtu.be/YcU_tZIesKI?si=IA_2xVWnEuUhgPLz))
 #### Abstract
 Despite their manifold benefits, language technologies are contributing to several unfolding crises. Small screens deliver mainstream content across the world and entice children of minoritised communities away from their ancestral languages. The data centres that power large language models  depend on the mining of ever more rare earth metals from indigenous lands and emit ever more carbon. Malicious actors flood social media with fake news, provoking extremism, division, and war. Common to these crises is content, i.e. language content, increasingly generated and accessed using language technologies. These developments – the language crisis, the environmental crisis, and the meaning crisis – compound each other in what is being referred to as the metacrisis. How are we to respond, then, as a community of practice who is actively developing still more language technologies? I believe that a good first step is to bring our awareness to the matter and to rethink what we are doing. We must be suspicious of purely technological solutions which may only exacerbate problems that were created by our use of technology. Instead, I argue that we should approach the problem as social and cultural. I will share stories from a small and highly multilingual indigenous society who understands language not as sequence data but as social practice, and who understands language resources not as annotated text and speech but as stories and knowledge practices of language owners. I will explore ramifications for our work in the space of language technologies, and propose a relational approach to language technology that avoids extractive processes and centres speech communities.
 
