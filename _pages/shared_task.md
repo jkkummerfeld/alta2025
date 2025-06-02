@@ -1,8 +1,8 @@
 ---
-title: ALTA 2024 Shared Task
+title: ALTA 2025 Shared Task
 layout: single
-excerpt: "ALTA 2024 Shared Task"
+excerpt: "ALTA 2025 Shared Task"
 permalink: /shared-task
 ---
 
-Our [Call for Problems for ALTA 2024 Shared Task](/calls/shared_task) is now open.
+Call for Problems for ALTA 2025 Shared Task will be announced shortly.

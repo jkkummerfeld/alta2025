@@ -1,7 +1,7 @@
 ---
 title: ALTA Executive Committee
 layout: single
-excerpt: "ALTA 2024 executive committee"
+excerpt: "ALTA 2025 executive committee"
 permalink: /committees/executive
 sidebar:
     nav: "committees"

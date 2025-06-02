@@ -1,9 +1,11 @@
-# ALTA 2024 Official Website
+# ALTA 2025 Official Website
 
-This is the code for the official website for the 2024 Annual Workshop of the Australasian Language Technology Association ([ALTA 2024](https://alta2024.alta.asn.au/)), based on the code for [ALTA 2023](https://alta2023.alta.asn.au/) and [EMNLP 2022](https://github.com/yxni98/EMNLP_2022). It's currently using the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
+This is the code for the official website for the 2025 Annual Workshop of the Australasian Language Technology Association ([ALTA 2025](https://alta2025.alta.asn.au/)), based on the code for [ALTA 2023](https://alta2023.alta.asn.au/) and [EMNLP 2022](https://github.com/yxni98/EMNLP_2022). It's currently using the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
 
 
 ## Build the website locally
+
+### Ubuntu
 
 The following steps are tested on Ubuntu 22.04.
 
@@ -16,13 +18,20 @@ $ source ~/.bashrc
 $ gem install --user-install bundler
 $ bundle config set path $GEM_HOME
 ```
+
+### macOS
+
+Follow the [Jekyll installation instructions](https://jekyllrb.com/docs/installation/macos/).
+
+### Both
+
 Now clone the repository
 ```
-$ git clone https://github.com/cdawei/alta2024
+$ git clone https://github.com/cdawei/alta2025
 ```
 Then install gems needed by this repository (if this step fails, check error messages to see if additional packages need to be installed)
 ```bash
-$ cd alta2024/
+$ cd alta2025/
 $ bundle install
 ```
 To start the jekyll server
@@ -35,14 +44,14 @@ Lastly, visit http://localhost:4000 in a web browser to see the website.
 
 To link the repository after logging in [netlify](https://www.netlify.com/) using GitHub account and deploy, please read [this document](https://docs.netlify.com/git/repo-permissions-linking/).
 
-To set up a public ALTA domain (e.g. `alta2024.alta.asn.au`), please read [this page](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/) and talk to ALTA executive.
+To set up a public ALTA domain (e.g. `alta2025.alta.asn.au`), please read [this page](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/) and talk to ALTA executive.
 
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2024 Association for Computational Linguistics.
+Copyright (c) 2025 Association for Computational Linguistics.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

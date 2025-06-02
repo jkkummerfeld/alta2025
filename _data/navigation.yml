@@ -15,14 +15,14 @@ main:
   - title: "Venue"
     url: /venue
 
-  - title: "Registration"
-    url: https://events.humanitix.com/alta-2024?hxchl=hex-qrc&hxref=evt
+#  - title: "Registration"
+#    url: https://events.humanitix.com/alta-2024?hxchl=hex-qrc&hxref=evt
 
   - title: "Sponsors"
     url: /sponsors
    
-  - title: "Shared Task"
-    url: https://www.alta.asn.au/events/sharedtask2024/
+#  - title: "Shared Task"
+#    url: https://www.alta.asn.au/events/sharedtask2024/
   
   - title: "Committees"
     url: /committees/local
