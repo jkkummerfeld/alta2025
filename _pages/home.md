@@ -1,5 +1,5 @@
 ---
-title: "The 22nd Annual Workshop of the Australasian Language Technology Association"
+title: "The 23rd Annual Workshop of the Australasian Language Technology Association"
 layout: splash
 permalink: /
 header:
