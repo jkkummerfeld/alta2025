@@ -26,7 +26,7 @@ sidebar:
    name="Mark Dras"
    picture=""
    site="https://researchers.mq.edu.au/en/persons/mark-dras"
-   institution="PhD Student<br>School of Computer Science<br>The University of Sydney"
+   institution="Professor<br>School of Computing<br>Macquarie University"
 %}
 
 <h2>Publication Chair</h2>
