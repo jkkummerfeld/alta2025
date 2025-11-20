@@ -68,7 +68,6 @@ Hang out, catch up, and meet new people!
     * Lead Author: Mong Yuan Sim
   * Why Do Self-Harm Prediction Models Struggle to Generalise? -- Lexical and Semantic Variations
     * Lead Author: Liuliu Chen
-    * Presenter: Ele Chen
 * 10:00: Keynote #1 - Alistair Knott
 * 11:00: Morning Tea
 * 11:30: Session #2 - Oral Presentations (Topic: Robustness and Safety of Language Models, Session Chair: Aditya)
