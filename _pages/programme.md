@@ -76,6 +76,7 @@ Hang out, catch up, and meet new people!
     * Lead Author: Hannah Bansal
   * [A Dataset and Benchmark on Extraction of Novel Concepts on Trust in AI from Scientific Literature](/assets/papers/11.pdf)
     * Lead Author: Melanie McGrath
+    * Presenter: Necva Bolucu
   * [SHIELD: Classifier-Guided Prompting for Robust and Safer LVLMs](/assets/papers/6.pdf)
     * Lead Author: Juan Ren
   * [Some Odd Adversarial Perturbations and the Notion of Adversarial Closeness](/assets/papers/2.pdf)
