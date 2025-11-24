@@ -31,6 +31,8 @@ Title: Alignment of Large Language Models with Human Preferences and Values
 
 Location: PNR Learning Studio 310, [location](https://maps.app.goo.gl/JnDAqS7dQ7B6FrR98), and [about the space](https://www.youtube.com/watch?v=pcrBbXQuC-U)
 
+Livestream: The tutorial will be livestreamed [here](https://macquarie.zoom.us/j/86859010193?pwd=xlbvSumUK5hK1V8Y4LRWvKKuQOXlTo.1). Note, the rest of the workshop is not being livestreamed.
+
 Presenters: Usman Naseem, Gautam Siddharth Kashyap, Kaixuan Ren, Yiran Zhang, Utsav Maskey, Juan (Ada) Ren, Afrozah Nadeem (Macquarie University)
 
 Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities, yet their reliability and alignment with human expectations remain unresolved challenges. This tutorial introduces the foundations of alignment and provides participants with a conceptual and practical understanding of the field. Core principles such as values, safety, reasoning, and pluralism will be presented through intuitive explanations, worked examples, and case studies. The aim is to equip attendees with the ability to reason about alignment goals, understand how existing methods operate in practice, and critically evaluate their strengths and limitations.
