@@ -48,10 +48,12 @@ Mark Johnson is a Professor of Language Science (CORE) in the School of Computin
 
 Mark Johnson has worked on a wide range of topics in computational linguistics, but his main area of research is natural language understanding, especially syntactic parsing and semantic analysis, and their applications to text and speech processing.
 
-### Panel Discussion: "Teaching NLP/Using NLP for teaching"
+### Panel Discussion: "Teaching NLP & Using NLP for teaching"
 
 Moderator: Aditya Joshi
 
 Panel Members:
-- TBD
+- Massimo Piccardi, Professor, University of Technology Sydney
+- Jey Han Lau, Senior Lecturer, University of Melbourne
+- Thomas Elton, PhD Student, The University of Sydney
 

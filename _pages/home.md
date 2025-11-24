@@ -29,6 +29,7 @@ For students who are the first author of an accepted paper, we intend to provide
 | 2025-10-25 | The [accepted papers](/papers) have been announced.
 | 2025-10-31 | [Registration](https://events.humanitix.com/alta-2025) is now open.
 | 2025-11-05 | Postponed the camera-ready deadline by a day due to a configuration issue, and added notes on travel support for students.
+| 2025-11-24 | Added [the link](https://macquarie.zoom.us/j/86859010193?pwd=xlbvSumUK5hK1V8Y4LRWvKKuQOXlTo.1) for the tutorial livestream.
 {: .news-table}
 
 

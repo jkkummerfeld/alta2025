@@ -4,7 +4,7 @@ layout: single
 excerpt: "ALTA 2025 Conference Programme"
 permalink: /programme
 sidebar: false
-toc: false
+toc: true
 toc_sticky: false
 toc_label: "&nbsp;Programme"
 ---
@@ -19,9 +19,48 @@ toc_label: "&nbsp;Programme"
     }
 </style>
 
-Registration is now [open](https://events.humanitix.com/alta-2025).
-
 Time Zone: AEDT (UTC+11)
+
+**Wednesday November 26th** - PNR Learning Studio 310
+
+| Time  | Event
+| ----- | ----
+| 14:00 | Tutorial
+| 15:30 | Afternoon Tea
+| 16:00 | Tutorial
+| 17:00 | Informal Meet-n-Greet
+
+**Thursday, November 27** - PNR Lecture Theatre 302
+
+| Time  | Event
+| ----- | ----
+| 09:10 | Opening & Welcome
+| 09:30 | Lightning Talks | Benchmarks & Evaluation
+| 10:00 | Keynote | Alistair Knott
+| 11:00 | Morning Tea
+| 11:30 | Talks | Robustness and Safety of Language Models
+| 12:30 | Light Lunch
+| 14:00 | Panel Discussion | Teaching NLP/Using NLP for Teaching
+| 15:00 | Afternoon Tea
+| 15:30 | Talks | Multimodality and Language
+| 16:45 | Lightning Talks | Hallucination & Vulnerabilities
+| 17:30 | Social Event | Friend in Hand Hotel, Top Bar, 58 Cowper St, Glebe, NSW, 2037
+
+**Friday, November 28** - PNR Lecture Theatre 302
+
+| Time  | Event
+| ----- | ----
+| 09:00 | Lightning Talks | Model Architecture & Learning
+| 09:30 | Talks | Language Generation
+| 10:30 | Morning Tea
+| 11:00 | Talks | Language Understanding
+| 11:30 | Shared Task | Normalise Adverse Drug Events
+| 12:30 | Lunch
+| 14:00 | Keynote | Mark Johnson
+| 15:00 | Afternoon Tea
+| 15:30 | ALTA General Meeting
+| 16:00 | Awards and Closing
+
 
 ## Wednesday November 26th
 
@@ -30,6 +69,8 @@ Time Zone: AEDT (UTC+11)
 Title: Alignment of Large Language Models with Human Preferences and Values
 
 Location: PNR Learning Studio 310, [location](https://maps.app.goo.gl/JnDAqS7dQ7B6FrR98), and [about the space](https://www.youtube.com/watch?v=pcrBbXQuC-U)
+
+Livestream: The tutorial will be livestreamed [here](https://macquarie.zoom.us/j/86859010193?pwd=xlbvSumUK5hK1V8Y4LRWvKKuQOXlTo.1). Note, the rest of the workshop is not being livestreamed.
 
 Presenters: Usman Naseem, Gautam Siddharth Kashyap, Kaixuan Ren, Yiran Zhang, Utsav Maskey, Juan (Ada) Ren, Afrozah Nadeem (Macquarie University)
 
@@ -70,7 +111,7 @@ Hang out, catch up, and meet new people!
     * Lead Author: Liuliu Chen
 * 10:00: Keynote #1 - Alistair Knott
 * 11:00: Morning Tea
-* 11:30: Session #2 - Oral Presentations (Topic: Robustness and Safety of Language Models, Session Chair: Aditya)
+* 11:30: Session #2 - Oral Presentations (Topic: Robustness and Safety of Language Models, Session Chair: Zhuang Li)
   * [Robustness of Neurosymbolic Reasoners on First-Order Logic Problems](/assets/papers/1.pdf)
     * Lead Author: Hannah Bansal
   * [A Dataset and Benchmark on Extraction of Novel Concepts on Trust in AI from Scientific Literature](/assets/papers/11.pdf)
@@ -81,9 +122,9 @@ Hang out, catch up, and meet new people!
   * [Some Odd Adversarial Perturbations and the Notion of Adversarial Closeness](/assets/papers/2.pdf)
     * Lead Author: Shakila Mahjabin Tonni
 * 12:30: Light Lunch
-* 14:00: Panel Discussion - "Teaching NLP/Using NLP for Teaching" (Moderator: Aditya Joshi)
+* 14:00: Panel Discussion - "Teaching NLP/Using NLP for Teaching" (Speakers: Massimo Piccardi, Jey Han Lau, Thomas Elton, Moderator: Aditya Joshi)
 * 15:00: Afternoon Tea
-* 15:30: Session #3 - Oral Presentations (Topic: Multimodality and Language)
+* 15:30: Session #3 - Oral Presentations (Topic: Multimodality and Language, Session Chair: Jonathan K. Kummerfeld)
   * [Graph-Score: A Graph-grounded Metric for Audio Captioning](/assets/papers/13.pdf)
     * Lead Author: Manh Luong
   * [MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](/assets/papers/10.pdf)
@@ -126,15 +167,16 @@ Join us for dinner and drinks at a local bar, with pool tables and more. It is a
   * [Continuous Diffusion-based Text Generation for Query Expansion in LM, an Intuition](https://www.authorea.com/doi/full/10.22541/au.175803367.73730165/v1)
     * Lead Author: Avi Bleiweiss
     * Presenter: Avi Bleiweiss
-* 09:30: Session #6 - Oral Presentations (Topic: Language Generation)
+* 09:30: Session #6 - Oral Presentations (Topic: Language Generation, Session Chair: Qiongkai Xu)
   * [Nek Minit: Harnessing Pragmatic Metacognitive Prompting for Explainable Sarcasm Detection of Australian and Indian English](/assets/papers/3.pdf)
     * Lead Author: Ishmanbir Singh
   * [Can an LLM Elicit Information from Users in Simple Optimization Modelling Dialogues?](/assets/papers/5.pdf)
     * Lead Author: Yelaman Abdullin
   * [Simple and Effective Baselines for Code Summarisation Evaluation](/assets/papers/9.pdf)
     * Lead Author: Jade Robinson
+    * Presenter: Jonathan K. Kummerfeld
 * 10:30: Morning Tea
-* 11:00: Session #7 - Oral Presentations (Topic: Language Understanding)
+* 11:00: Session #7 - Oral Presentations (Topic: Language Understanding, Session Chair: Aditya Joshi)
   * [An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry](/assets/papers/8.pdf)
     * Lead Author: XUNGANG GU
   * [LLMs for Argument Mining: Detection, Extraction, and Relationship Classification of pre-defined Arguments in Online Comments](/assets/papers/12.pdf)
@@ -155,5 +197,5 @@ Join us for dinner and drinks at a local bar, with pool tables and more. It is a
 * 12:30: Lunch
 * 14:00: Keynote #2 - Mark Johnson
 * 15:00: Afternoon Tea
-* 15:30: ALTA General Meeting
+* 15:30: ALTA General Meeting (Session Chair: Jey Han Lau)
 * 16:00: Best Paper Award / Shared Task Award / Closing
