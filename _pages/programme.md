@@ -82,7 +82,7 @@ Content Outline:
 
 1. Foundations of Alignment
 2. Value and Preference Alignment for Helpfulness
-3.  Safety and Honesty Alignment
+3. Safety and Honesty Alignment
 4. Pluralistic and Cross-Modal Alignment
 
 ### Informal Meet-n-Greet, 5pm - 6:30pm
@@ -97,15 +97,15 @@ Hang out, catch up, and meet new people!
 * 09:10: Opening & Welcome
 * 09:20: Programme Committee Summary
 * 09:30: Session #1 - Lightning Talks (Topic: Benchmarks & Evaluation, Session Chair: Qiongkai Xu)
-  * BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English
+  * [BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English](https://aclanthology.org/2025.findings-acl.441.pdf)
     * Lead Author: Dipankar Srirag
-  * Evaluating Evidence Attribution in Generated Fact Checking Explanations
+  * [Evaluating Evidence Attribution in Generated Fact Checking Explanations](https://aclanthology.org/2025.naacl-long.282.pdf)
     * Lead Author: Rui Xing
-  * ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content
+  * [ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content](https://aclanthology.org/2025.findings-emnlp.1176.pdf)
     * Lead Author: Bhavik Chandna
-  * Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where
+  * [Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?](https://aclanthology.org/2025.emnlp-main.259.pdf)
     * Lead Author: Grace LeFevre
-  * The More, The Better? A Critical Study of Multimodal Context in Radiology Report Summarization
+  * [The More, The Better? A Critical Study of Multimodal Context in Radiology Report Summarization](https://aclanthology.org/2025.findings-emnlp.1040.pdf)
     * Lead Author: Mong Yuan Sim
   * Why Do Self-Harm Prediction Models Struggle to Generalise? -- Lexical and Semantic Variations
     * Lead Author: Liuliu Chen
@@ -125,18 +125,18 @@ Hang out, catch up, and meet new people!
 * 14:00: Panel Discussion - "Teaching NLP/Using NLP for Teaching" (Speakers: Massimo Piccardi, Jey Han Lau, Thomas Elton, Moderator: Aditya Joshi)
 * 15:00: Afternoon Tea
 * 15:30: Session #3 - Oral Presentations (Topic: Multimodality and Language, Session Chair: Jonathan K. Kummerfeld)
-  * Graph-Score: A Graph-grounded Metric for Audio Captioning
+  * [Graph-Score: A Graph-grounded Metric for Audio Captioning](/assets/papers/13.pdf)
     * Lead Author: Manh Luong
   * [MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](/assets/papers/10.pdf)
     * Lead Author: Ye Bai
   * [Thinker-DDM: Modeling Deliberation for Machine Translation with a Drift-Diffusion Process](/assets/papers/4.pdf)
     * Lead Author: Hongbin Na
-  * [Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features](/assets/papers/7.pdf)
+  * [Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features in Seamless and Whisper](/assets/papers/7.pdf)
     * Lead Author: Simon Gonzalez
 * 16:45: Session #4 - Lightning Talks (Topic: Hallucination & Vulnerabilities, Session Chair: Necva Bölücü)
   * CREAM-RAG: Enhanced Retrieval Augmented Generation to Limit Hallucination through Consistency-based Self-RAG
     * Lead Author: Yuliah Louis
-  * GRAVITI: Grounded Retrieval Generation Framework for VideoLLM Hallucination Mitigation
+  * [GRAVITI: Grounded Retrieval Generation Framework for VideoLLM Hallucination Mitigation](https://www.researchsquare.com/article/rs-7900022/v1)
     * Lead Author: Ahmad Khalil
   * Privacy Beyond Memorization: Replicating and Extending Attribute-Inference Risks in LLMs
     * Lead Author: Ny Fenohery Jeannot
@@ -158,13 +158,13 @@ Join us for dinner and drinks at a local bar, with pool tables and more. It is a
 **Location**: PNR Lecture Theatre (2) 302
 
 * 09:00: Session #5 - Lightning Talks (Topic: Model Architecture & Learning, Session Chair: Aditya Joshi)
-  * DAT-CRF: Improving the Directed Acyclic Transformer with CRF Integration
+  * [DAT-CRF: Improving the Directed Acyclic Transformer with CRF Integration](https://ebooks.iospress.nl/doi/10.3233/FAIA251327)
     * Lead Author: Inigo Jauregi Unanue
-  * Embeddings-as-a-Service Watermarks and Current Limitations
+  * [Embeddings-as-a-Service Watermarks and Current Limitations](https://aclanthology.org/2025.acl-long.1122.pdf)
     * Lead Author: Anudeex Shetty
-  * Spectraformer: A Unified Random Feature Framework for Transformer
+  * [Spectraformer: A Unified Random Feature Framework for Transformer](https://dl.acm.org/doi/10.1145/3768161)
     * Lead Author: Duke Nguyen
-  * Continuous Diffusion-based Text Generation for Query Expansion in LM, an Intuition
+  * [Continuous Diffusion-based Text Generation for Query Expansion in LM, an Intuition](https://www.authorea.com/doi/full/10.22541/au.175803367.73730165/v1)
     * Lead Author: Avi Bleiweiss
     * Presenter: Avi Bleiweiss
 * 09:30: Session #6 - Oral Presentations (Topic: Language Generation, Session Chair: Qiongkai Xu)
@@ -184,15 +184,15 @@ Join us for dinner and drinks at a local bar, with pool tables and more. It is a
 * 11:30: Session #8 - Oral Presentations (Topic: Shared Task - Normalise Adverse Drug Events, Session Chair: Diego Molla)
   * [Overview of the 2025 ALTA Shared Task: Normalise Adverse Drug Events](/assets/papers/st_1.pdf)
     * Lead Author: Diego Molla
-  * [Team MonoLink at the ALTA Shared Task 2025: Synonym-Aware Retrieval](/assets/papers/st_2.pdf)
+  * [Team MonoLink at the ALTA Shared Task 2025: Synonym-Aware Retrieval with Guideline-Aware Re-Ranking for MedDRA Normalization](/assets/papers/st_2.pdf)
     * Lead Author: James C. Douglas
-  * [A Hybrid System for Comprehensive and Consistent Automated MedDRA](/assets/papers/st_3.pdf)
+  * [A Hybrid System for Comprehensive and Consistent Automated MedDRA Coding of Adverse Drug Events](/assets/papers/st_3.pdf)
     * Lead Author: Abir Naskar
-  * [SCaLER@ALTA 2025: Hybrid and Bi-Encoder Approaches for Adverse Drug](/assets/papers/st_4.pdf)
+  * [SCaLER@ALTA 2025: Hybrid and Bi-Encoder Approaches for Adverse Drug Event Mention Normalization](/assets/papers/st_4.pdf)
     * Lead Author: Shelke Akshay Babasaheb
-  * [DRAGON: Dual-Encoder Retrieval with Guided Ontology Reasoning for Me](/assets/papers/st_5.pdf)
+  * [DRAGON: Dual-Encoder Retrieval with Guided Ontology Reasoning for Medical Normalization](/assets/papers/st_5.pdf)
     * Lead Author: Dao Sy Duy Minh
-  * [A Hybrid Retrieval System for Adverse Event Concept Normalization Integr](/assets/papers/st_6.pdf)
+  * [A Hybrid Retrieval System for Adverse Event Concept Normalization Integrating Contextual Scoring, Lexical Augmentation, and Semantic Fine-Tuning](/assets/papers/st_6.pdf)
     * Lead Author: Saipriya Dipika Vaidyanathan
 * 12:30: Lunch
 * 14:00: Keynote #2 - Mark Johnson
