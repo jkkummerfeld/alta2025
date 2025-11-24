@@ -96,7 +96,7 @@ Hang out, catch up, and meet new people!
 
 * 09:10: Opening & Welcome
 * 09:20: Programme Committee Summary
-* 09:30: Session #1 - Lightning Talks (Topic: Benchmarks & Evaluation)
+* 09:30: Session #1 - Lightning Talks (Topic: Benchmarks & Evaluation, Session Chair: Qiongkai Xu)
   * BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English
     * Lead Author: Dipankar Srirag
   * Evaluating Evidence Attribution in Generated Fact Checking Explanations
@@ -133,7 +133,7 @@ Hang out, catch up, and meet new people!
     * Lead Author: Hongbin Na
   * [Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features](/assets/papers/7.pdf)
     * Lead Author: Simon Gonzalez
-* 16:45: Session #4 - Lightning Talks (Topic: Hallucination & Vulnerabilities)
+* 16:45: Session #4 - Lightning Talks (Topic: Hallucination & Vulnerabilities, Session Chair: Necva Bölücü)
   * CREAM-RAG: Enhanced Retrieval Augmented Generation to Limit Hallucination through Consistency-based Self-RAG
     * Lead Author: Yuliah Louis
   * GRAVITI: Grounded Retrieval Generation Framework for VideoLLM Hallucination Mitigation
@@ -157,7 +157,7 @@ Join us for dinner and drinks at a local bar, with pool tables and more. It is a
 
 **Location**: PNR Lecture Theatre (2) 302
 
-* 09:00: Session #5 - Lightning Talks (Topic: Model Architecture & Learning)
+* 09:00: Session #5 - Lightning Talks (Topic: Model Architecture & Learning, Session Chair: Aditya Joshi)
   * DAT-CRF: Improving the Directed Acyclic Transformer with CRF Integration
     * Lead Author: Inigo Jauregi Unanue
   * Embeddings-as-a-Service Watermarks and Current Limitations
