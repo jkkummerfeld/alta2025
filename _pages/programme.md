@@ -39,7 +39,7 @@ Time Zone: AEDT (UTC+11)
 | 10:00 | Keynote | Alistair Knott
 | 11:00 | Morning Tea
 | 11:30 | Talks | Robustness and Safety of Language Models
-| 12:30 | Light Lunch
+| 12:30 | Lunch
 | 14:00 | Panel Discussion | Teaching NLP/Using NLP for Teaching
 | 15:00 | Afternoon Tea
 | 15:30 | Talks | Multimodality and Language
@@ -121,7 +121,7 @@ Hang out, catch up, and meet new people!
     * Lead Author: Juan Ren
   * [Some Odd Adversarial Perturbations and the Notion of Adversarial Closeness](/assets/papers/2.pdf)
     * Lead Author: Shakila Mahjabin Tonni
-* 12:30: Light Lunch
+* 12:30: Lunch
 * 14:00: Panel Discussion - "Teaching NLP/Using NLP for Teaching" (Speakers: Massimo Piccardi, Jey Han Lau, Thomas Elton, Moderator: Aditya Joshi)
 * 15:00: Afternoon Tea
 * 15:30: Session #3 - Oral Presentations (Topic: Multimodality and Language, Session Chair: Jonathan K. Kummerfeld)
