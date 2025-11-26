@@ -167,7 +167,6 @@ Join us for dinner and drinks at a local bar, with pool tables and more. It is a
     * Lead Author: Duke Nguyen
   * [Continuous Diffusion-based Text Generation for Query Expansion in LM, an Intuition](https://www.authorea.com/doi/full/10.22541/au.175803367.73730165/v1)
     * Lead Author: Avi Bleiweiss
-    * Presenter: Avi Bleiweiss
 * 09:30: Session #6 - Oral Presentations (Topic: Language Generation, Session Chair: Qiongkai Xu)
   * [Nek Minit: Harnessing Pragmatic Metacognitive Prompting for Explainable Sarcasm Detection of Australian and Indian English](/assets/papers/3.pdf)
     * Lead Author: Ishmanbir Singh
