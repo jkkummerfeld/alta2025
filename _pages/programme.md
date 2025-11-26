@@ -105,6 +105,7 @@ Hang out, catch up, and meet new people!
     * Lead Author: Bhavik Chandna
   * [Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?](https://aclanthology.org/2025.emnlp-main.259.pdf)
     * Lead Author: Grace LeFevre
+    * Presenter: Denis Peskoff
   * [The More, The Better? A Critical Study of Multimodal Context in Radiology Report Summarization](https://aclanthology.org/2025.findings-emnlp.1040.pdf)
     * Lead Author: Mong Yuan Sim
   * Why Do Self-Harm Prediction Models Struggle to Generalise? -- Lexical and Semantic Variations
