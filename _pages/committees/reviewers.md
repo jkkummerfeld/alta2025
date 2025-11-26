@@ -18,6 +18,7 @@ sidebar:
 - Nicholas I-Hsien Kuo, (University of New South Wales)
 - Inigo Jauregi Unanue, (University of Technology Sydney)
 - Antonio Jimeno Yepes, (Unstructured Technologies)
+- Aditya Joshi, (University of New South Wales)
 - Jonathan K. Kummerfeld, (University of Sydney)
 - Sarvnaz Karimi, (CSIRO)
 - Kemal Kurniawan, (University of Melbourne)
